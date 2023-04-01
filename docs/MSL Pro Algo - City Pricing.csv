@@ -1,0 +1,1000 @@
+city,state_id,state_name,county_name,lat,lng,density,ranking,Price,home_value
+New York,NY,New York,Queens,40.6943,-73.9249,10768.2,1,$425,659738
+Los Angeles,CA,California,Los Angeles,34.1141,-118.4068,3267.6,1,$424,705680
+Chicago,IL,Illinois,Cook,41.8375,-87.6866,4576.6,1,$423,277714
+Miami,FL,Florida,Miami-Dade,25.784,-80.2101,4945.7,1,$421,368439
+Dallas,TX,Texas,Dallas,32.7935,-96.7667,1522.2,1,$420,233086
+Phoenix,AZ,Arizona,Maricopa,33.5722,-112.0892,1235.5,1,$419,275624
+Houston,TX,Texas,Harris,29.786,-95.3885,1394.6,1,$418,205913
+Manhattan,NY,New York,New York,40.7834,-73.9662,28653.9,1,$416,
+Philadelphia,PA,Pennsylvania,Philadelphia,40.0077,-75.1339,4544.9,1,$415,183858
+Boston,MA,Massachusetts,Suffolk,42.3188,-71.0852,5505.8,1,$414,610520
+Detroit,MI,Michigan,Wayne,42.3834,-83.1024,1871.2,1,$413,59513
+Seattle,WA,Washington,King,47.6211,-122.3244,3412.2,1,$412,767376
+San Francisco,CA,California,San Francisco,37.7558,-122.4449,7199.4,1,$410,1198481
+San Diego,CA,California,San Diego,32.8313,-117.1222,1675.9,1,$409,663821
+Austin,TX,Texas,Travis,30.3005,-97.7522,1165.6,1,$408,381472
+Minneapolis,MN,Minnesota,Hennepin,44.9635,-93.2678,3035.5,1,$407,283714
+Brooklyn,NY,New York,Kings,40.6501,-73.9496,15200.5,1,$405,
+Tampa,FL,Florida,Hillsborough,27.9945,-82.4447,1340.7,1,$404,275408
+Denver,CO,Colorado,Denver,39.762,-104.8758,1805.7,1,$403,458480
+Queens,NY,New York,Queens,40.7498,-73.7976,8503.7,1,$402,
+Baltimore,MD,Maryland,Baltimore,39.3051,-76.6144,2872.8,1,$401,177423
+Las Vegas,NV,Nevada,Clark,36.2333,-115.2654,1754.7,1,$399,302501
+St. Louis,MO,Missouri,St. Louis,38.6359,-90.2451,1905.7,1,$398,147384
+Portland,OR,Oregon,Multnomah,45.5371,-122.65,1881.6,1,$397,463001
+Riverside,CA,California,Riverside,33.9381,-117.3949,1557,1,$396,416530
+Orlando,FL,Florida,Orange,28.4773,-81.337,992,1,$394,280385
+Sacramento,CA,California,Sacramento,38.5677,-121.4685,1971.3,1,$393,385139
+Atlanta,GA,Georgia,Fulton,33.7628,-84.422,1419.9,1,$392,340669
+San Antonio,TX,Texas,Bexar,29.4632,-98.5238,1184.5,1,$391,165450
+San Jose,CA,California,Santa Clara,37.3012,-121.848,2229,1,$389,986149
+Pittsburgh,PA,Pennsylvania,Allegheny,40.4397,-79.9763,2100.7,1,$388,144449
+Cincinnati,OH,Ohio,Hamilton,39.1413,-84.506,1500.2,1,$387,160597
+Louisville,KY,Kentucky,Jefferson,38.1663,-85.6485,907.6,1,$386,175384
+Cleveland,OH,Ohio,Cuyahoga,41.4764,-81.6805,1904,1,$385,74542
+Indianapolis,IN,Indiana,Marion,39.7771,-86.1458,928.2,1,$383,154401
+Kansas City,MO,Missouri,Jackson,39.1238,-94.5541,602.6,1,$382,175366
+Columbus,OH,Ohio,Franklin,39.9862,-82.9855,1559.5,1,$381,174663
+Charlotte,NC,North Carolina,Mecklenburg,35.2083,-80.8303,1091,1,$380,257386
+Virginia Beach,VA,Virginia,Virginia Beach,36.7335,-76.0435,711.4,1,$378,296187
+Nashville,TN,Tennessee,Davidson,36.1715,-86.7842,541.3,1,$377,291241
+Bronx,NY,New York,Bronx,40.8501,-73.8662,13356.3,1,$376,
+Milwaukee,WI,Wisconsin,Milwaukee,43.0642,-87.9675,2379,1,$375,134534
+Providence,RI,Rhode Island,Providence,41.823,-71.4187,3764.8,1,$374,249596
+Jacksonville,FL,Florida,Duval,30.3322,-81.6749,466.3,1,$372,201007
+Salt Lake City,UT,Utah,Salt Lake,40.7776,-111.9311,700.3,1,$371,380626
+Washington,DC,District of Columbia,District of Columbia,38.9047,-77.0163,4434,1,$370,635854
+Raleigh,NC,North Carolina,Wake,35.8324,-78.6429,1232.8,1,$369,286011
+Memphis,TN,Tennessee,Shelby,35.1087,-89.9663,852.1,1,$367,113495
+Richmond,VA,Virginia,Richmond,37.5295,-77.4756,1477,1,$366,262986
+Buffalo,NY,New York,Erie,42.9018,-78.8487,2446.1,1,$365,115442
+Oklahoma City,OK,Oklahoma,Oklahoma,35.4676,-97.5136,413.7,2,$365,167965
+Bridgeport,CT,Connecticut,Fairfield,41.1918,-73.1954,3485.4,2,$365,192681
+New Orleans,LA,Louisiana,Orleans,30.0687,-89.9288,891.2,2,$365,255089
+Fort Worth,TX,Texas,Tarrant,32.7817,-97.3474,988.3,2,$364,206898
+Hartford,CT,Connecticut,Hartford,41.7661,-72.6834,2722.5,2,$364,171868
+Tucson,AZ,Arizona,Pima,32.1541,-110.8787,873.6,2,$364,177418
+Honolulu,HI,Hawaii,Honolulu,21.3294,-157.846,2214.1,2,$364,726004
+McAllen,TX,Texas,Hidalgo,26.2252,-98.2467,883.4,2,$364,133672
+Omaha,NE,Nebraska,Douglas,41.2627,-96.0529,1299.2,2,$364,177665
+El Paso,TX,Texas,El Paso,31.8476,-106.43,1015.8,2,$363,137614
+Hempstead,NY,New York,Nassau,40.6629,-73.6089,2498,2,$363,500731
+Albuquerque,NM,New Mexico,Bernalillo,35.1054,-106.6465,1155.5,2,$363,214352
+Rochester,NY,New York,Monroe,43.168,-77.6162,2227.6,2,$363,93179
+Sarasota,FL,Florida,Sarasota,27.3387,-82.5432,1518.1,2,$363,332163
+Fresno,CA,California,Fresno,36.783,-119.7939,1757.3,2,$363,272398
+Tulsa,OK,Oklahoma,Tulsa,36.1283,-95.9042,785.8,2,$362,150160
+Allentown,PA,Pennsylvania,Lehigh,40.5961,-75.4756,2663.3,2,$362,146256
+Dayton,OH,Ohio,Montgomery,39.7805,-84.2003,971.7,2,$362,73307
+Birmingham,AL,Alabama,Jefferson,33.5279,-86.7971,553.9,2,$362,109537
+Charleston,SC,South Carolina,Charleston,32.8168,-79.9687,460.9,2,$362,370804
+Cape Coral,FL,Florida,Lee,26.6443,-81.9957,690.5,2,$361,255977
+Columbia,SC,South Carolina,Richland,34.0378,-80.9036,377.3,2,$361,190801
+Concord,CA,California,Contra Costa,37.9722,-122.0016,1633.1,2,$361,610021
+Colorado Springs,CO,Colorado,El Paso,38.8674,-104.7605,930,2,$361,323572
+Springfield,MA,Massachusetts,Hampden,42.1155,-72.5395,1861.8,2,$361,168034
+Knoxville,TN,Tennessee,Knox,35.9692,-83.9496,733.3,2,$361,154239
+Baton Rouge,LA,Louisiana,East Baton Rouge,30.442,-91.1311,993.9,2,$360,191360
+Ogden,UT,Utah,Weber,41.2279,-111.9682,1221.9,2,$360,220507
+Grand Rapids,MI,Michigan,Kent,42.9619,-85.6562,1719.6,2,$360,167753
+Albany,NY,New York,Albany,42.6664,-73.7987,1747.3,2,$360,186829
+Bakersfield,CA,California,Kern,35.3529,-119.0359,979,2,$360,269343
+Mission Viejo,CA,California,Orange,33.6096,-117.6551,2091,2,$359,771845
+New Haven,CT,Connecticut,New Haven,41.3113,-72.9246,2693.4,2,$359,207495
+Worcester,MA,Massachusetts,Worcester,42.2705,-71.8079,1913.8,2,$359,259549
+Provo,UT,Utah,Utah,40.2457,-111.6457,1082.6,2,$359,328393
+Akron,OH,Ohio,Summit,41.0798,-81.5219,1230.5,2,$359,86621
+Palm Bay,FL,Florida,Brevard,27.9631,-80.6593,508.2,2,$359,185258
+Des Moines,IA,Iowa,Polk,41.5725,-93.6105,943.2,2,$358,149034
+Murrieta,CA,California,Riverside,33.5719,-117.1909,1310.3,2,$358,456305
+Mesa,AZ,Arizona,Maricopa,33.4015,-111.7178,1415.7,2,$358,261578
+Staten Island,NY,New York,Richmond,40.5834,-74.1496,3286.2,2,$358,
+Wichita,KS,Kansas,Sedgwick,37.6895,-97.3443,930.9,2,$358,143843
+Toledo,OH,Ohio,Lucas,41.6638,-83.5827,1319.7,2,$358,85684
+Brookhaven,NY,New York,Suffolk,40.832,-72.9517,717.7,2,$357,371404
+Harrisburg,PA,Pennsylvania,Dauphin,40.2752,-76.8843,2342,2,$357,93827
+Port St. Lucie,FL,Florida,St. Lucie,27.2796,-80.3884,634,2,$357,245898
+Long Beach,CA,California,Los Angeles,33.7977,-118.167,3517.9,2,$357,614927
+Reno,NV,Nevada,Washoe,39.5497,-119.8483,889.9,2,$357,390289
+Madison,WI,Wisconsin,Dane,43.0822,-89.393,1253.6,2,$356,277812
+Little Rock,AR,Arkansas,Pulaski,34.7256,-92.3577,637,2,$356,180250
+Greenville,SC,South Carolina,Greenville,34.8354,-82.3646,903.6,2,$356,348208
+Denton,TX,Texas,Denton,33.2175,-97.1418,557.5,2,$356,255120
+Spokane,WA,Washington,Spokane,47.6671,-117.433,1230.8,2,$356,236231
+Oakland,CA,California,Alameda,37.7904,-122.2166,2917.1,2,$356,772365
+Lancaster,PA,Pennsylvania,Lancaster,40.042,-76.3012,3169.1,2,$355,144759
+Poughkeepsie,NY,New York,Dutchess,41.695,-73.9211,2277.1,2,$355,214888
+Boise,ID,Idaho,Ada,43.6005,-116.2308,1047.5,2,$355,322309
+Winston-Salem,NC,North Carolina,Forsyth,36.1029,-80.261,712.9,2,$355,157221
+Syracuse,NY,New York,Onondaga,43.0407,-76.1437,2196.4,2,$355,100144
+Augusta,GA,Georgia,Richmond,33.3645,-82.0708,252.3,2,$355,122349
+Stockton,CA,California,San Joaquin,37.9765,-121.3109,1925.2,2,$354,323149
+Palm Coast,FL,Florida,Flagler,29.5389,-81.2457,357.2,2,$354,239092
+Chattanooga,TN,Tennessee,Hamilton,35.066,-85.2481,491.9,2,$354,188317
+Kissimmee,FL,Florida,Osceola,28.3041,-81.4169,1300.3,2,$354,217430
+Durham,NC,North Carolina,Durham,35.9792,-78.9022,939.7,2,$354,263857
+Arlington,TX,Texas,Tarrant,32.6998,-97.125,1600.4,2,$353,210516
+Victorville,CA,California,San Bernardino,34.5277,-117.3536,644.1,2,$353,252925
+Aurora,CO,Colorado,Arapahoe,39.7083,-104.7237,915.8,2,$353,349455
+Modesto,CA,California,Stanislaus,37.6375,-121.0028,1923.9,2,$353,329607
+Lancaster,CA,California,Los Angeles,34.6935,-118.1753,645.9,2,$353,300527
+Fayetteville,AR,Arkansas,Washington,36.0714,-94.1661,614.5,2,$353,254921
+Scranton,PA,Pennsylvania,Lackawanna,41.4044,-75.6649,1174.7,2,$352,111717
+Oxnard,CA,California,Ventura,34.1964,-119.1815,3023.3,2,$352,497378
+Youngstown,OH,Ohio,Mahoning,41.0993,-80.6463,730.1,2,$352,47854
+Indio,CA,California,Riverside,33.7346,-116.2346,1046.2,2,$352,305886
+Pensacola,FL,Florida,Escambia,30.4413,-87.1911,897.6,2,$352,218851
+Anaheim,CA,California,Orange,33.839,-117.8574,2711.7,2,$351,623078
+Bonita Springs,FL,Florida,Lee,26.3558,-81.7859,580.4,2,$351,353357
+Greensboro,NC,North Carolina,Guilford,36.0956,-79.8271,872.6,2,$351,168561
+Islip,NY,New York,Suffolk,40.7385,-73.1888,1236.9,2,$351,401450
+Huntsville,AL,Alabama,Madison,34.6981,-86.6412,351.8,2,$351,193609
+Corpus Christi,TX,Texas,Nueces,27.7254,-97.3767,777,2,$351,152931
+Fort Wayne,IN,Indiana,Allen,41.0888,-85.1436,935.5,2,$350,130150
+Fayetteville,NC,North Carolina,Cumberland,35.085,-78.9772,550,2,$350,137082
+Ann Arbor,MI,Michigan,Washtenaw,42.2759,-83.731,1658,2,$350,366568
+Jackson,MS,Mississippi,Hinds,32.3157,-90.2125,566,2,$350,92285
+Antioch,CA,California,Contra Costa,37.9787,-121.796,1475.4,2,$350,465426
+Mobile,AL,Alabama,Mobile,30.6782,-88.1162,525.9,2,$350,136033
+Lexington,KY,Kentucky,Fayette,38.0423,-84.4587,438.6,2,$349,216662
+Asheville,NC,North Carolina,Buncombe,35.5707,-82.5537,784,2,$349,317015
+Trenton,NJ,New Jersey,Mercer,40.2237,-74.7641,4232.8,2,$349,98513
+Santa Rosa,CA,California,Sonoma,38.4458,-122.7067,1619.6,2,$349,598342
+Santa Ana,CA,California,Orange,33.7367,-117.8819,4690.9,2,$349,554918
+Lansing,MI,Michigan,Ingham,42.7142,-84.5601,1158.9,2,$348,95692
+Henderson,NV,Nevada,Clark,36.0133,-115.0381,1124.7,2,$348,365881
+St. Paul,MN,Minnesota,Ramsey,44.9478,-93.1039,2272.3,2,$348,232207
+Lakeland,FL,Florida,Polk,28.0557,-81.9545,642.7,2,$348,163852
+Newark,NJ,New Jersey,Essex,40.7245,-74.1725,4508.4,2,$348,270620
+Fort Collins,CO,Colorado,Larimer,40.5477,-105.0656,1120.5,2,$348,428344
+Oyster Bay,NY,New York,Nassau,40.7846,-73.514,1108.1,2,$347,587595
+Reading,PA,Pennsylvania,Berks,40.34,-75.9267,3465,2,$347,81038
+Springfield,MO,Missouri,Greene,37.1943,-93.2916,784.1,2,$347,127910
+Irvine,CA,California,Orange,33.6772,-117.7738,1604.7,2,$347,900414
+Anchorage,AK,Alaska,Anchorage,61.1508,-149.1091,66.1,2,$347,326355
+The Woodlands,TX,Texas,Montgomery,30.1738,-95.5134,1021.9,2,$347,391067
+South Bend,IN,Indiana,St. Joseph,41.6767,-86.2696,944.5,2,$346,93990
+Rockford,IL,Illinois,Winnebago,42.2596,-89.064,877,2,$346,97298
+Savannah,GA,Georgia,Chatham,32.0286,-81.1821,517.7,2,$346,169512
+Lincoln,NE,Nebraska,Lancaster,40.8099,-96.6784,1131.9,2,$346,193576
+Jersey City,NJ,New Jersey,Hudson,40.7184,-74.0686,6878.3,2,$346,439761
+Round Lake Beach,IL,Illinois,Lake,42.3791,-88.0811,2090.5,2,$345,157969
+Flint,MI,Michigan,Genesee,43.0236,-83.6921,1108.4,2,$345,38356
+Shreveport,LA,Louisiana,Caddo,32.4653,-93.7955,678,2,$345,148772
+Plano,TX,Texas,Collin,33.0502,-96.7486,1555.8,2,$345,358154
+Myrtle Beach,SC,South Carolina,Horry,33.7094,-78.8844,551.9,2,$345,257035
+Davenport,IA,Iowa,Scott,41.5565,-90.6053,618.5,2,$345,137994
+Canton,OH,Ohio,Stark,40.8078,-81.3676,1038.8,2,$344,75889
+Santa Clarita,CA,California,Los Angeles,34.4175,-118.4964,1159.7,2,$344,590548
+Chula Vista,CA,California,San Diego,32.6281,-117.0144,2090.7,2,$344,560839
+Eugene,OR,Oregon,Lane,44.0564,-123.1174,1489.3,2,$344,336702
+Chandler,AZ,Arizona,Maricopa,33.2825,-111.8514,1515.9,2,$344,351870
+Salem,OR,Oregon,Marion,44.9233,-123.0244,1358.7,2,$343,288299
+Concord,NC,North Carolina,Cabarrus,35.3933,-80.6369,571,2,$343,243162
+Gilbert,AZ,Arizona,Maricopa,33.31,-111.7463,1398,2,$343,377732
+Columbus,GA,Georgia,Muscogee,32.51,-84.8771,348.5,2,$343,144096
+Lubbock,TX,Texas,Lubbock,33.5657,-101.8879,736.6,2,$343,153736
+North Las Vegas,NV,Nevada,Clark,36.2883,-115.0888,933.1,2,$343,279433
+St. Petersburg,FL,Florida,Pinellas,27.7931,-82.6652,1647.5,2,$342,243490
+Tallahassee,FL,Florida,Leon,30.4551,-84.2527,731.2,2,$342,222850
+Laredo,TX,Texas,Webb,27.5625,-99.4874,941.8,2,$342,143337
+Peoria,IL,Illinois,Peoria,40.752,-89.6154,906.6,2,$342,128903
+Avondale,AZ,Arizona,Maricopa,33.3873,-112.3235,698.1,2,$342,250501
+Lafayette,LA,Louisiana,Lafayette,30.2082,-92.0325,874.7,2,$342,207845
+Irving,TX,Texas,Dallas,32.8583,-96.9702,1386.2,2,$341,219244
+Montgomery,AL,Alabama,Montgomery,32.3482,-86.2668,480.8,2,$341,123579
+Visalia,CA,California,Tulare,36.3276,-119.3269,1352.8,2,$341,265697
+McKinney,TX,Texas,Collin,33.2016,-96.667,1102.4,2,$341,348187
+Wilmington,NC,North Carolina,New Hanover,34.2099,-77.8866,917.6,2,$341,280103
+Chesapeake,VA,Virginia,Chesapeake,36.6778,-76.3023,276.8,2,$340,290906
+Glendale,AZ,Arizona,Maricopa,33.5791,-112.2311,1494,2,$340,251284
+Garland,TX,Texas,Dallas,32.91,-96.6304,1613.1,2,$340,190100
+Kennewick,WA,Washington,Benton,46.1978,-119.1732,1144.9,2,$340,261827
+Winter Haven,FL,Florida,Polk,28.0118,-81.7014,504.8,2,$340,179173
+Scottsdale,AZ,Arizona,Maricopa,33.6872,-111.8651,535.1,2,$340,538673
+Norfolk,VA,Virginia,Norfolk,36.8945,-76.259,1770.5,2,$339,222497
+Killeen,TX,Texas,Bell,31.0753,-97.7297,1046.1,2,$339,145103
+North Hempstead,NY,New York,Nassau,40.7912,-73.6688,1665.2,2,$339,752065
+York,PA,Pennsylvania,York,39.9651,-76.7315,3211.3,2,$339,79508
+Atlantic City,NJ,New Jersey,Atlantic,39.3797,-74.4527,1356.1,2,$339,147538
+Nashua,NH,New Hampshire,Hillsborough,42.7491,-71.491,1115.1,2,$339,296733
+Arlington,VA,Virginia,Arlington,38.8786,-77.1011,3511.4,2,$338,755757
+Brownsville,TX,Texas,Cameron,25.9975,-97.458,534.4,2,$338,96801
+Fremont,CA,California,Alameda,37.5265,-121.9843,1160.9,2,$338,1067855
+Gulfport,MS,Mississippi,Harrison,30.4274,-89.0704,497.4,2,$338,135890
+Evansville,IN,Indiana,Vanderburgh,37.9881,-87.5341,965.5,2,$338,103746
+Hialeah,FL,Florida,Miami-Dade,25.8696,-80.3045,4184.1,2,$337,278985
+Navarre,FL,Florida,Santa Rosa,30.4174,-86.8907,625.9,2,$337,264807
+Bel Air South,MD,Maryland,Harford,39.5022,-76.3113,998.6,2,$337,326993
+North Port,FL,Florida,Sarasota,27.0576,-82.1977,267.2,2,$337,228938
+San Bernardino,CA,California,San Bernardino,34.1416,-117.2943,1347,2,$337,288258
+Portland,ME,Maine,Cumberland,43.6773,-70.2715,1195.5,2,$337,342241
+Enterprise,NV,Nevada,Clark,36.0091,-115.2278,1255.4,2,$336,349719
+Bremerton,WA,Washington,Kitsap,47.5436,-122.7121,560.3,2,$336,306028
+Green Bay,WI,Wisconsin,Brown,44.5148,-87.9895,887.2,2,$336,150867
+Appleton,WI,Wisconsin,Outagamie,44.278,-88.3892,1150.9,2,$336,165837
+Babylon,NY,New York,Suffolk,40.6925,-73.3586,1558.5,2,$336,394021
+Spring Valley,NV,Nevada,Clark,36.0952,-115.2636,2378.2,2,$335,316139
+Tacoma,WA,Washington,Pierce,47.2431,-122.4531,1675.7,2,$335,346987
+Spartanburg,SC,South Carolina,Spartanburg,34.9442,-81.9251,713.9,2,$335,143985
+Roanoke,VA,Virginia,Roanoke,37.2785,-79.9581,900.1,2,$335,140570
+Gainesville,FL,Florida,Alachua,29.6804,-82.3459,814.2,2,$335,181632
+Deltona,FL,Florida,Volusia,28.905,-81.2137,950.1,2,$335,184004
+Kalamazoo,MI,Michigan,Kalamazoo,42.2749,-85.5882,1190,2,$334,124384
+Thousand Oaks,CA,California,Ventura,34.1914,-118.8756,891.9,2,$334,793472
+Hickory,NC,North Carolina,Catawba,35.741,-81.3223,515.4,2,$334,199460
+Yonkers,NY,New York,Westchester,40.9466,-73.8673,4292.6,2,$334,420899
+Moreno Valley,CA,California,Riverside,33.9244,-117.2045,1570.3,2,$334,353082
+Fontana,CA,California,San Bernardino,34.0968,-117.4599,1906.8,2,$334,421308
+College Station,TX,Texas,Brazos,30.5852,-96.2959,874,2,$333,267992
+Fargo,ND,North Dakota,Cass,46.8651,-96.8292,949.4,2,$333,232754
+Amarillo,TX,Texas,Potter,35.1984,-101.8316,748,2,$333,146337
+Huntington,NY,New York,Suffolk,40.8521,-73.3823,826.1,2,$333,600189
+Norwich,CT,Connecticut,New London,41.5495,-72.0882,538.1,2,$333,178171
+Olympia,WA,Washington,Thurston,47.0417,-122.8959,1108,2,$332,353549
+Waterbury,CT,Connecticut,New Haven,41.5582,-73.0361,1460,2,$332,139292
+Salinas,CA,California,Monterey,36.6883,-121.6317,2564.3,2,$332,475428
+Huntington,WV,West Virginia,Cabell,38.4109,-82.4345,1098.3,2,$332,100462
+Huntington Beach,CA,California,Orange,33.696,-118.0018,2857.1,2,$332,842695
+Clarksville,TN,Tennessee,Montgomery,36.5692,-87.3413,605.6,2,$332,172181
+Santa Barbara,CA,California,Santa Barbara,34.4285,-119.7202,1799.4,2,$331,1130904
+Glendale,CA,California,Los Angeles,34.1819,-118.2468,2525.4,2,$331,865166
+Sunrise Manor,NV,Nevada,Clark,36.1783,-115.0487,2269.8,2,$331,205432
+Grand Prairie,TX,Texas,Dallas,32.6871,-97.0208,1032.1,2,$331,202116
+Overland Park,KS,Kansas,Johnson,38.887,-94.687,993.3,2,$331,314328
+Hagerstown,MD,Maryland,Washington,39.6401,-77.7217,1229.4,2,$331,163793
+Nampa,ID,Idaho,Canyon,43.5844,-116.5638,1090.5,2,$330,221185
+Gastonia,NC,North Carolina,Gaston,35.2494,-81.1854,572,2,$330,181773
+Frisco,TX,Texas,Collin,33.156,-96.8216,1059.7,2,$330,447524
+Cedar Rapids,IA,Iowa,Linn,41.9662,-91.6783,712.9,2,$330,149217
+Hemet,CA,California,Riverside,33.7341,-116.9969,1116.6,2,$330,192857
+Paradise,NV,Nevada,Clark,36.0872,-115.1355,1758.7,2,$329,277589
+Sioux Falls,SD,South Dakota,Minnehaha,43.5396,-96.7311,879.9,2,$329,217707
+Vancouver,WA,Washington,Clark,45.6366,-122.5967,1447.8,2,$329,343573
+Peoria,AZ,Arizona,Maricopa,33.7843,-112.2989,377.4,2,$329,311773
+Waco,TX,Texas,McLennan,31.5599,-97.1882,599.5,2,$329,139340
+Lorain,OH,Ohio,Lorain,41.4409,-82.184,1044,2,$329,97150
+Erie,PA,Pennsylvania,Erie,42.1167,-80.0733,1948.6,2,$328,90896
+Newport News,VA,Virginia,Newport News,37.1051,-76.5185,1005.1,2,$328,204422
+Aurora,IL,Illinois,Kane,41.7638,-88.2902,1711.4,2,$328,207831
+Fort Lauderdale,FL,Florida,Broward,26.1412,-80.1464,2029.7,2,$328,363174
+Vallejo,CA,California,Solano,38.1125,-122.2342,1539.3,2,$328,432300
+Murfreesboro,TN,Tennessee,Rutherford,35.849,-86.4121,863,2,$327,273971
+Spring Hill,FL,Florida,Hernando,28.4798,-82.53,732.9,2,$327,178997
+Tempe,AZ,Arizona,Maricopa,33.3881,-111.9319,1852.3,2,$327,320642
+High Point,NC,North Carolina,Guilford,35.991,-79.9937,768.9,2,$327,169091
+Medford,OR,Oregon,Jackson,42.3372,-122.854,1224.5,2,$327,306661
+Danbury,CT,Connecticut,Fairfield,41.4015,-73.4709,777.6,2,$327,313183
+Elk Grove,CA,California,Sacramento,38.4161,-121.3842,1594.1,2,$326,466413
+Ontario,CA,California,San Bernardino,34.0393,-117.6064,1376.8,2,$326,437482
+Frederick,MD,Maryland,Frederick,39.4337,-77.4141,1158.3,2,$326,289067
+Vero Beach South,FL,Florida,Indian River,27.6132,-80.4163,939.5,2,$326,241116
+Ocala,FL,Florida,Marion,29.178,-82.1511,490.4,2,$326,151784
+Oceanside,CA,California,San Diego,33.2247,-117.3083,1643.7,2,$326,564715
+Rancho Cucamonga,CA,California,San Bernardino,34.1247,-117.5667,1478.4,2,$325,550051
+Garden Grove,CA,California,Orange,33.7787,-117.9601,3714.5,2,$325,600639
+Cary,NC,North Carolina,Wake,35.7819,-78.8195,1101,2,$325,405844
+Pembroke Pines,FL,Florida,Broward,26.0128,-80.3382,2031.8,2,$325,306696
+Palmdale,CA,California,Los Angeles,34.5944,-118.1057,557.8,2,$325,331708
+Manchester,NH,New Hampshire,Hillsborough,42.9848,-71.4447,1312.6,2,$324,257613
+Lafayette,IN,Indiana,Tippecanoe,40.3991,-86.8593,953.6,2,$324,125739
+Santa Cruz,CA,California,Santa Cruz,36.9789,-122.0346,1970.2,2,$324,928827
+Marysville,WA,Washington,Snohomish,48.0809,-122.1561,1295.4,2,$324,381925
+Muskegon,MI,Michigan,Muskegon,43.2281,-86.2562,1018.7,2,$324,83921
+Springfield,IL,Illinois,Sangamon,39.7709,-89.654,726,2,$324,132516
+Hayward,CA,California,Alameda,37.6328,-122.0766,1338.3,2,$323,651907
+New Bedford,MA,Massachusetts,Bristol,41.6697,-70.9428,1840.8,2,$323,257531
+Alexandria,VA,Virginia,Alexandria,38.8185,-77.0861,4092.5,2,$323,578040
+Paterson,NJ,New Jersey,Passaic,40.9147,-74.1624,6676.6,2,$323,269236
+Corona,CA,California,Riverside,33.8616,-117.5649,1625.1,2,$323,530878
+Merced,CA,California,Merced,37.3057,-120.4779,1396,2,$323,268284
+Warner Robins,GA,Georgia,Houston,32.5961,-83.6527,786.6,2,$322,130275
+Port Arthur,TX,Texas,Jefferson,29.8554,-93.9264,278.2,2,$322,80336
+Macon,GA,Georgia,Bibb,32.8065,-83.6974,236.9,2,$322,127883
+Kansas City,KS,Kansas,Wyandotte,39.1235,-94.7443,473.6,2,$322,109400
+Lakewood,CO,Colorado,Jefferson,39.6977,-105.1172,1383.1,2,$322,428593
+Sunnyvale,CA,California,Santa Clara,37.3836,-122.0255,2670.3,2,$321,1496640
+Fredericksburg,VA,Virginia,Fredericksburg,38.2992,-77.4872,1073.6,2,$321,380811
+Leesburg,FL,Florida,Lake,28.7672,-81.8962,232.4,2,$321,160916
+Champaign,IL,Illinois,Champaign,40.1142,-88.2737,1482.7,2,$321,167518
+Hollywood,FL,Florida,Broward,26.0293,-80.1679,2179.6,2,$321,294716
+Pasadena,TX,Texas,Harris,29.6575,-95.1498,1348.4,2,$321,141212
+Pomona,CA,California,Los Angeles,34.0585,-117.7626,2538.6,2,$320,446074
+Escondido,CA,California,San Diego,33.1348,-117.0723,1554.9,2,$320,504049
+Joliet,IL,Illinois,Will,41.5188,-88.1499,874,2,$320,203450
+Lake Charles,LA,Louisiana,Calcasieu,30.201,-93.2111,657.2,2,$320,168734
+Mesquite,TX,Texas,Dallas,32.7602,-96.5865,1120.3,2,$320,171086
+Mauldin,SC,South Carolina,Greenville,34.7821,-82.3032,826.4,2,$319,179982
+Panama City,FL,Florida,Bay,30.1995,-85.6003,395.2,2,$319,184419
+Bellevue,WA,Washington,King,47.5951,-122.1535,1686.3,2,$319,950505
+Naperville,IL,Illinois,DuPage,41.748,-88.1659,1459,2,$319,433339
+Harlingen,TX,Texas,Cameron,26.1916,-97.6977,625.7,2,$319,94379
+Tuscaloosa,AL,Alabama,Tuscaloosa,33.2348,-87.5268,627.3,2,$319,198688
+Elkhart,IN,Indiana,Elkhart,41.6916,-85.9627,739.1,2,$318,99141
+Torrance,CA,California,Los Angeles,33.8346,-118.3416,2717.9,2,$318,840155
+Ramapo,NY,New York,Rockland,41.1404,-74.1072,861.9,2,$318,500018
+Binghamton,NY,New York,Broome,42.1014,-75.9093,1651.3,2,$318,94696
+Houma,LA,Louisiana,Terrebonne,29.58,-90.7059,882.1,2,$318,179523
+Topeka,KS,Kansas,Shawnee,39.0346,-95.6955,788.4,2,$318,104602
+Roseville,CA,California,Placer,38.7703,-121.3196,1216.3,2,$317,504787
+Fairfield,CA,California,Solano,38.2583,-122.0335,1081.9,2,$317,457667
+Tyler,TX,Texas,Smith,32.3184,-95.3062,711.4,2,$317,170371
+Fullerton,CA,California,Orange,33.8841,-117.9279,2429.3,2,$317,697138
+Pueblo,CO,Colorado,Pueblo,38.2701,-104.6114,768.2,2,$317,162893
+Athens,GA,Georgia,Clarke,33.9508,-83.3689,414.8,2,$316,199003
+Santa Maria,CA,California,Santa Barbara,34.9333,-120.4431,1786.2,2,$316,373689
+Surprise,AZ,Arizona,Maricopa,33.6815,-112.4515,486.6,2,$316,280651
+Charleston,WV,West Virginia,Kanawha,38.3484,-81.6322,579.4,2,$316,152076
+Las Cruces,NM,New Mexico,Doña Ana,32.3265,-106.7893,516.7,2,$316,168869
+Metairie,LA,Louisiana,Jefferson,29.9977,-90.178,2299.3,2,$316,259571
+Thornton,CO,Colorado,Adams,39.9197,-104.9438,1550.7,2,$315,372586
+Olathe,KS,Kansas,Johnson,38.8833,-94.82,866.8,2,$315,273236
+Gainesville,GA,Georgia,Hall,34.2902,-83.8294,479,2,$315,244278
+West Valley City,UT,Utah,Salt Lake,40.6886,-112.0123,1461.5,2,$315,270727
+Orange,CA,California,Orange,33.8038,-117.8218,2095.7,2,$315,712545
+Warren,MI,Michigan,Macomb,42.4934,-83.027,1507.1,2,$315,142004
+Pasadena,CA,California,Los Angeles,34.1597,-118.139,2388,2,$314,862842
+Beaumont,TX,Texas,Jefferson,30.0849,-94.1451,549.3,2,$314,123912
+Burlington,NC,North Carolina,Alamance,36.076,-79.4685,696.3,2,$314,145376
+Hampton,VA,Virginia,Hampton,37.0551,-76.363,1014.2,2,$314,189752
+Columbia,MO,Missouri,Boone,38.9472,-92.3268,711.5,2,$314,214933
+Yuma,AZ,Arizona,Yuma,32.5995,-114.5491,311.5,2,$313,151933
+Elizabeth,NJ,New Jersey,Union,40.6658,-74.1913,4027,2,$313,314434
+Racine,WI,Wisconsin,Racine,42.7274,-87.8135,1918.5,2,$313,125527
+Greeley,CO,Colorado,Weld,40.4152,-104.7706,847.8,2,$313,295245
+Kent,WA,Washington,King,47.3887,-122.2128,1484,2,$313,413066
+Stamford,CT,Connecticut,Fairfield,41.1039,-73.5585,1334.9,2,$313,550798
+Odessa,TX,Texas,Ector,31.8801,-102.3448,920,2,$312,163607
+Bloomington,IL,Illinois,McLean,40.4757,-88.9703,1106.6,2,$312,168356
+Miramar,FL,Florida,Broward,25.9773,-80.3351,1879.8,2,$312,334131
+Grand Junction,CO,Colorado,Mesa,39.0877,-108.5673,594.6,2,$312,271233
+Sterling Heights,MI,Michigan,Macomb,42.5809,-83.0305,1401.5,2,$312,213014
+Coral Springs,FL,Florida,Broward,26.2702,-80.2591,2252.2,2,$311,393177
+Johnson City,TN,Tennessee,Washington,36.3406,-82.3806,594.9,2,$311,182654
+Carrollton,TX,Texas,Dallas,32.989,-96.8999,1446.4,2,$311,283960
+Midland,TX,Texas,Midland,32.0243,-102.1147,722.2,2,$311,246651
+Yakima,WA,Washington,Yakima,46.5923,-120.5496,1302.9,2,$311,202801
+Lakewood,NJ,New Jersey,Ocean,40.0763,-74.2031,1629.9,2,$311,352420
+Bellingham,WA,Washington,Whatcom,48.7548,-122.469,1246.1,2,$310,437976
+Yuba City,CA,California,Sutter,39.1357,-121.6383,1718.2,2,$310,320958
+Amherst,NY,New York,Erie,43.0117,-78.757,912.9,2,$310,227422
+South Lyon,MI,Michigan,Oakland,42.4614,-83.6526,1219.6,2,$310,214597
+Santa Clara,CA,California,Santa Clara,37.3646,-121.968,2677.1,2,$310,1199036
+St. George,UT,Utah,Washington,37.0758,-113.5752,429,2,$310,344026
+Fort Smith,AR,Arkansas,Sebastian,35.3495,-94.3695,529.7,2,$309,137165
+Simi Valley,CA,California,Ventura,34.2663,-118.749,1168.8,2,$309,635023
+Dover,DE,Delaware,Kent,39.161,-75.5202,617.8,2,$309,194138
+Norman,OK,Oklahoma,Cleveland,35.2335,-97.3471,268.2,2,$309,192968
+Abilene,TX,Texas,Taylor,32.4543,-99.7384,451.3,2,$309,134088
+Billings,MT,Montana,Yellowstone,45.7891,-108.5526,945,2,$308,248779
+Lehigh Acres,FL,Florida,Lee,26.612,-81.6388,518.7,2,$308,186494
+St. Cloud,MN,Minnesota,Stearns,45.534,-94.1718,660.1,2,$308,165414
+Kenosha,WI,Wisconsin,Kenosha,42.5865,-87.8773,1359.8,2,$308,168386
+Greenville,NC,North Carolina,Pitt,35.5943,-77.376,967.3,2,$308,163110
+Arvada,CO,Colorado,Jefferson,39.832,-105.151,1193,2,$308,456633
+Pearland,TX,Texas,Brazoria,29.5581,-95.3218,998,2,$307,270894
+Independence,MO,Missouri,Jackson,39.0871,-94.3501,580.1,2,$307,130156
+Texas City,TX,Texas,Galveston,29.4154,-94.9682,288.2,2,$307,143302
+Redding,CA,California,Shasta,40.5698,-122.365,595.7,2,$307,291623
+Lynchburg,VA,Virginia,Lynchburg,37.4003,-79.1909,638.3,2,$307,168685
+Boulder,CO,Colorado,Boulder,40.0248,-105.2524,1594.5,2,$307,790422
+Iowa City,IA,Iowa,Johnson,41.6559,-91.5303,1141.8,2,$306,230355
+Rochester,MN,Minnesota,Olmsted,44.0154,-92.478,813.7,2,$306,236251
+Berkeley,CA,California,Alameda,37.8722,-122.276,4554.9,2,$306,1107939
+Waldorf,MD,Maryland,Charles,38.6085,-76.9194,827.9,2,$306,319284
+The Villages,FL,Florida,Sumter,28.9034,-81.9887,963.1,2,$306,293334
+Duluth,MN,Minnesota,St. Louis,46.7756,-92.1393,462.6,2,$305,176387
+East Los Angeles,CA,California,Los Angeles,34.0326,-118.1691,6242.6,2,$305,476205
+Saginaw,MI,Michigan,Saginaw,43.4199,-83.9501,1093.9,2,$305,44252
+Clovis,CA,California,Fresno,36.8278,-119.683,1686.7,2,$305,360404
+Leominster,MA,Massachusetts,Worcester,42.5209,-71.7717,557,2,$305,273872
+Round Rock,TX,Texas,Williamson,30.527,-97.6642,1321.3,2,$305,282517
+Monroe,LA,Louisiana,Ouachita,32.5185,-92.0774,623.7,2,$304,136170
+Cambridge,MA,Massachusetts,Middlesex,42.3759,-71.1185,7111.9,2,$304,886040
+Clearwater,FL,Florida,Pinellas,27.979,-82.7623,1713.6,2,$304,236961
+Smithtown,NY,New York,Suffolk,40.8663,-73.2164,836.3,2,$304,540111
+Seaside,CA,California,Monterey,36.6224,-121.8199,1473.9,2,$304,577893
+West Jordan,UT,Utah,Salt Lake,40.6024,-112.0008,1375.6,2,$303,342532
+Richardson,TX,Texas,Dallas,32.9716,-96.7093,1602.8,2,$303,326649
+West Palm Beach,FL,Florida,Palm Beach,26.7469,-80.132,796.4,2,$303,275232
+Temple,TX,Texas,Bell,31.1068,-97.3891,413.6,2,$303,157846
+Burlington,VT,Vermont,Chittenden,44.4876,-73.2316,1598.1,2,$303,337895
+Richmond,CA,California,Contra Costa,37.9477,-122.3389,1413.8,2,$303,555814
+Westminster,CO,Colorado,Adams,39.8837,-105.0624,1403.7,2,$302,388315
+Pottstown,PA,Pennsylvania,Montgomery,40.2508,-75.6445,1801.2,2,$302,134176
+Brandon,FL,Florida,Hillsborough,27.9367,-82.3,1350.7,2,$302,224175
+Rock Hill,SC,South Carolina,York,34.9415,-81.0241,721.9,2,$302,187395
+Meridian,ID,Idaho,Ada,43.6116,-116.3977,1168.8,2,$302,349584
+Coeur d'Alene,ID,Idaho,Kootenai,47.704,-116.7936,1234.6,2,$302,309000
+Carlsbad,CA,California,San Diego,33.1246,-117.2834,1169.5,2,$301,899134
+Lowell,MA,Massachusetts,Middlesex,42.6389,-71.3217,3157.7,2,$301,312303
+Waterloo,IA,Iowa,Black Hawk,42.4918,-92.3522,424.2,2,$301,122337
+North Charleston,SC,South Carolina,Charleston,32.9067,-80.0722,566.3,2,$301,203534
+Gilroy,CA,California,Santa Clara,37.0046,-121.5854,1289.5,2,$301,776483
+Downey,CA,California,Los Angeles,33.9379,-118.1311,3462,2,$300,607547
+Gresham,OR,Oregon,Multnomah,45.5021,-122.4413,1816.5,2,$300,345970
+Elgin,IL,Illinois,Kane,42.0383,-88.324,1137.8,2,$300,207678
+Utica,NY,New York,Oneida,43.0962,-75.2261,1385,2,$300,105782
+Broken Arrow,OK,Oklahoma,Tulsa,36.038,-95.7806,667.7,2,$300,179471
+Costa Mesa,CA,California,Orange,33.6667,-117.9135,2759.3,2,$300,838291
+Chico,CA,California,Butte,39.7578,-121.8161,1106,2,$299,364653
+Sioux City,IA,Iowa,Woodbury,42.4959,-96.3901,545.1,2,$299,131314
+League City,TX,Texas,Galveston,29.4874,-95.1087,793.9,2,$299,274966
+Miami Gardens,FL,Florida,Miami-Dade,25.9433,-80.2426,2346.3,2,$299,248689
+Pompano Beach,FL,Florida,Broward,26.2428,-80.1312,1787.3,2,$299,245722
+San Buenaventura,CA,California,Ventura,34.2741,-119.2314,1913.6,2,$299,619703
+Everett,WA,Washington,Snohomish,47.9525,-122.1669,1289.4,2,$298,394061
+El Centro,CA,California,Imperial,32.7865,-115.5595,1415.5,2,$298,208246
+Sugar Land,TX,Texas,Fort Bend,29.5935,-95.6358,1131.2,2,$298,345217
+El Monte,CA,California,Los Angeles,34.0739,-118.0291,4602.2,2,$298,508851
+Lewisville,TX,Texas,Denton,33.0454,-96.9815,1124,2,$298,253825
+West Covina,CA,California,Los Angeles,34.0555,-117.9113,2547.4,2,$297,601965
+Temecula,CA,California,Riverside,33.4928,-117.1315,1171.9,2,$297,491270
+Bend,OR,Oregon,Deschutes,44.0563,-121.3095,1114.3,2,$297,459934
+Salisbury,MD,Maryland,Wicomico,38.3756,-75.5865,920.1,2,$297,171152
+Jacksonville,NC,North Carolina,Onslow,34.7289,-77.3941,587.7,2,$297,156497
+Inglewood,CA,California,Los Angeles,33.9566,-118.3444,4654.5,2,$297,603974
+Dearborn,MI,Michigan,Wayne,42.3127,-83.213,1502.1,2,$296,163468
+Centennial,CO,Colorado,Arapahoe,39.5926,-104.8673,1446.3,2,$296,484664
+Burbank,CA,California,Los Angeles,34.1879,-118.3235,2305.8,2,$296,835308
+Edison,NJ,New Jersey,Middlesex,40.536,-74.3697,1282.5,2,$296,408530
+Sparks,NV,Nevada,Washoe,39.5736,-119.7161,1088.7,2,$296,350284
+Sandy Springs,GA,Georgia,Fulton,33.9366,-84.3703,1109.2,2,$295,490770
+Bloomington,IN,Indiana,Monroe,39.1637,-86.5257,1406.4,2,$295,231493
+Logan,UT,Utah,Cache,41.7399,-111.8422,1106.4,2,$295,239306
+Kailua,HI,Hawaii,Honolulu,21.392,-157.7396,1882.8,2,$295,1063923
+El Cajon,CA,California,San Diego,32.8017,-116.9604,2747.5,2,$295,486532
+Hillsboro,OR,Oregon,Washington,45.5273,-122.936,1619.6,2,$295,386752
+South Fulton,GA,Georgia,Fulton,33.6273,-84.58,446.7,2,$294,196173
+Renton,WA,Washington,King,47.4784,-122.1918,1673,2,$294,478901
+Mandeville,LA,Louisiana,St. Tammany,30.3751,-90.0904,681.3,2,$294,323813
+San Mateo,CA,California,San Mateo,37.5522,-122.3121,3297.1,2,$294,1286652
+Columbia,MD,Maryland,Howard,39.2004,-76.859,1274.5,2,$294,399064
+Daly City,CA,California,San Mateo,37.6862,-122.4685,5418.5,2,$294,903859
+Davie,FL,Florida,Broward,26.0789,-80.287,1168.4,2,$293,334325
+Jurupa Valley,CA,California,Riverside,34.001,-117.4706,958.9,2,$293,411189
+Brockton,MA,Massachusetts,Plymouth,42.0821,-71.0242,1732.8,2,$293,308056
+Longmont,CO,Colorado,Boulder,40.1686,-105.1005,1284.8,2,$293,423268
+Rialto,CA,California,San Bernardino,34.1175,-117.3892,1659.6,2,$293,346087
+Eau Claire,WI,Wisconsin,Eau Claire,44.8197,-91.4948,807.5,2,$292,178415
+Turlock,CA,California,Stanislaus,37.5053,-120.8588,1671.5,2,$292,344039
+Woodbridge,NJ,New Jersey,Middlesex,40.5611,-74.2943,1656.6,2,$292,334738
+Norwalk,CA,California,Los Angeles,33.9069,-118.0829,4157.4,2,$292,487755
+Highlands Ranch,CO,Colorado,Douglas,39.5419,-104.9708,1702.6,2,$292,543862
+Allen,TX,Texas,Collin,33.1088,-96.6735,1521.5,2,$292,343792
+Wichita Falls,TX,Texas,Wichita,33.9072,-98.5291,561.1,2,$291,108785
+Rio Rancho,NM,New Mexico,Sandoval,35.2873,-106.6982,366,2,$291,211184
+Vacaville,CA,California,Solano,38.3587,-121.9673,1292.1,2,$291,473676
+Spokane Valley,WA,Washington,Spokane,47.6626,-117.2346,1016.2,2,$291,250237
+Charlottesville,VA,Virginia,Charlottesville,38.0375,-78.4855,1779.4,2,$291,355861
+Idaho Falls,ID,Idaho,Bonneville,43.4871,-112.0362,940,2,$291,204452
+Menifee,CA,California,Riverside,33.6909,-117.1849,772.4,2,$290,367985
+Lee's Summit,MO,Missouri,Jackson,38.9171,-94.3816,598.2,2,$290,249915
+Quincy,MA,Massachusetts,Norfolk,42.2506,-71.0187,2199,2,$290,482912
+San Angelo,TX,Texas,Tom Green,31.4424,-100.4504,647,2,$290,148150
+Lynn,MA,Massachusetts,Essex,42.4781,-70.9664,3386.9,2,$290,378489
+Holland,MI,Michigan,Ottawa,42.7677,-86.0984,771.3,2,$289,181039
+Santa Fe,NM,New Mexico,Santa Fe,35.6619,-105.9819,624,2,$289,310827
+Vista,CA,California,San Diego,33.1896,-117.2386,2073,2,$289,527018
+Orem,UT,Utah,Utah,40.2981,-111.6994,2030.5,2,$289,328902
+Sunrise,FL,Florida,Broward,26.1547,-80.2997,2256.2,2,$289,225821
+Compton,CA,California,Los Angeles,33.893,-118.2274,3688.9,2,$289,422732
+Arden-Arcade,CA,California,Sacramento,38.6017,-121.3845,2275.6,2,$288,407289
+South Gate,CA,California,Los Angeles,33.9447,-118.1926,5063.5,2,$288,470297
+Santa Monica,CA,California,Los Angeles,34.0235,-118.481,4205.3,2,$288,1481225
+Westminster,CA,California,Orange,33.7523,-117.9938,3494.6,2,$288,646231
+San Leandro,CA,California,Alameda,37.7074,-122.1599,2622.4,2,$288,658203
+Germantown,MD,Maryland,Montgomery,39.1755,-77.2643,2029.4,2,$287,356909
+Bismarck,ND,North Dakota,Burleigh,46.8143,-100.7694,817.5,2,$287,252976
+Clifton,NJ,New Jersey,Passaic,40.863,-74.1575,2917.6,2,$287,369617
+State College,PA,Pennsylvania,Centre,40.7909,-77.8567,3567.5,2,$287,336586
+Hawthorne,CA,California,Los Angeles,33.9147,-118.3476,5417.3,2,$287,644753
+Lawrence,MA,Massachusetts,Essex,42.7002,-71.1626,4458.5,2,$287,310752
+Citrus Heights,CA,California,Sacramento,38.6948,-121.288,2380.9,2,$286,347169
+Whittier,CA,California,Los Angeles,33.9678,-118.0188,2235.7,2,$286,629077
+Deerfield Beach,FL,Florida,Broward,26.305,-80.1277,2087.9,2,$286,185488
+Upper Darby,PA,Pennsylvania,Delaware,39.949,-75.2891,4089.1,2,$286,157407
+Cicero,IL,Illinois,Cook,41.8445,-87.7593,5363.3,2,$286,189736
+Pine Hills,FL,Florida,Orange,28.5818,-81.4692,2577.7,2,$286,179963
+Buena Park,CA,California,Orange,33.8572,-118.0046,3015.2,2,$285,626969
+Miami Beach,FL,Florida,Miami-Dade,25.8171,-80.1396,4489.1,2,$285,450880
+Alhambra,CA,California,Los Angeles,34.084,-118.1355,4275.8,2,$285,654546
+Silver Spring,MD,Maryland,Montgomery,39.0028,-77.0207,3970.7,2,$285,536178
+Lakewood,CA,California,Los Angeles,33.8471,-118.1222,3272.3,2,$285,619982
+Mountain View,CA,California,Santa Clara,37.4001,-122.0796,2586.4,2,$285,1576089
+New Rochelle,NY,New York,Westchester,40.9304,-73.7836,2979.1,2,$285,573253
+Lebanon,PA,Pennsylvania,Lebanon,40.3412,-76.4228,2388.4,2,$285,104784
+Somerville,MA,Massachusetts,Middlesex,42.3908,-71.1014,7600.3,2,$285,746630
+Tustin,CA,California,Orange,33.7311,-117.8107,2805.2,2,$285,735082
+Milpitas,CA,California,Santa Clara,37.4336,-121.8921,2153,2,$285,995231
+Bellflower,CA,California,Los Angeles,33.888,-118.1271,4818.3,2,$285,533962
+Evanston,IL,Illinois,Cook,42.0464,-87.6943,3671.6,2,$285,411360
+Alameda,CA,California,Alameda,37.7668,-122.267,2949.8,2,$285,973015
+Cheyenne,WY,Wyoming,Laramie,41.135,-104.7902,767.1,2,$285,241117
+Watsonville,CA,California,Santa Cruz,36.9206,-121.7708,2981,2,$285,541187
+Davis,CA,California,Yolo,38.5553,-121.737,2657.8,2,$284,699010
+Pawtucket,RI,Rhode Island,Providence,41.8744,-71.3743,3199.5,2,$284,228546
+New Britain,CT,Connecticut,Hartford,41.6759,-72.7862,2090.9,2,$284,165962
+Lauderhill,FL,Florida,Broward,26.1605,-80.2241,3256.7,2,$284,194961
+Centreville,VA,Virginia,Fairfax,38.839,-77.4389,2401.1,2,$284,461237
+Mount Vernon,NY,New York,Westchester,40.9136,-73.8291,5943.4,2,$284,379538
+Baldwin Park,CA,California,Los Angeles,34.0829,-117.9722,4404.7,2,$284,464507
+Camden,NJ,New Jersey,Camden,39.9361,-75.1073,3192.4,2,$284,86222
+Tamarac,FL,Florida,Broward,26.2056,-80.2539,2212.1,2,$284,192555
+Redondo Beach,CA,California,Los Angeles,33.8577,-118.3765,4148.2,2,$284,1027697
+Wilmington,DE,Delaware,New Castle,39.7415,-75.5416,2503.9,2,$284,177061
+Bayonne,NJ,New Jersey,Hudson,40.6668,-74.1158,4318.5,2,$284,358638
+Passaic,NJ,New Jersey,Passaic,40.8574,-74.1282,8600.8,2,$284,346049
+East Orange,NJ,New Jersey,Essex,40.7651,-74.2117,6355.4,2,$284,241821
+Gaithersburg,MD,Maryland,Montgomery,39.1346,-77.2131,2539.2,2,$284,425847
+Eastvale,CA,California,Riverside,33.9617,-117.5803,2003.6,2,$284,614539
+Union City,NJ,New Jersey,Hudson,40.7675,-74.0323,20421.9,2,$284,382175
+Lynwood,CA,California,Los Angeles,33.924,-118.2016,5553.4,2,$284,448207
+Skokie,IL,Illinois,Cook,42.036,-87.74,2428.5,2,$284,333936
+Schenectady,NY,New York,Schenectady,42.8025,-73.9275,2334.1,2,$284,118246
+South San Francisco,CA,California,San Mateo,37.6538,-122.4196,2805.8,2,$284,964694
+Brentwood,NY,New York,Suffolk,40.7839,-73.2522,2212.3,2,$284,351346
+Malden,MA,Massachusetts,Middlesex,42.4305,-71.0576,4647.1,2,$284,491269
+Florence-Graham,CA,California,Los Angeles,33.9682,-118.2447,7127.9,2,$284,423031
+Twin Rivers,NJ,New Jersey,Mercer,40.2631,-74.4917,2208.1,2,$284,235525
+La Habra,CA,California,Orange,33.9282,-117.9515,3207.1,2,$283,598785
+Montebello,CA,California,Los Angeles,34.0155,-118.1108,2906.8,2,$283,554048
+North Bergen,NJ,New Jersey,Hudson,40.7938,-74.0242,4599.5,2,$283,384854
+Brookline,MA,Massachusetts,Norfolk,42.3243,-71.1408,3382.6,2,$283,1054503
+Pico Rivera,CA,California,Los Angeles,33.9901,-118.0888,2902.3,2,$283,490729
+The Hammocks,FL,Florida,Miami-Dade,25.67,-80.4482,3117.2,2,$283,351285
+Monterey Park,CA,California,Los Angeles,34.0497,-118.1326,3049.6,2,$283,668403
+La Mesa,CA,California,San Diego,32.7703,-117.0204,2557,2,$283,599771
+Gardena,CA,California,Los Angeles,33.8943,-118.3072,3934.5,2,$283,557472
+Revere,MA,Massachusetts,Suffolk,42.4189,-71.004,3614.7,2,$283,431152
+Medford,MA,Massachusetts,Middlesex,42.4234,-71.1087,2778.9,2,$283,588087
+Cupertino,CA,California,Santa Clara,37.3168,-122.0466,2038.2,2,$283,2000001
+North Miami,FL,Florida,Miami-Dade,25.9008,-80.1686,2851.4,2,$283,246585
+Taylorsville,UT,Utah,Salt Lake,40.6569,-111.9493,2133,2,$283,290894
+Irvington,NJ,New Jersey,Essex,40.7243,-74.2317,7183.6,2,$283,229485
+West Allis,WI,Wisconsin,Milwaukee,43.0068,-88.0296,2030.7,2,$283,155662
+Union,NJ,New Jersey,Union,40.6953,-74.2697,2505.6,2,$283,349873
+White Plains,NY,New York,Westchester,41.022,-73.7547,2306.7,2,$283,552276
+Hoboken,NJ,New Jersey,Hudson,40.7452,-74.0281,16455.4,2,$283,774955
+South Whittier,CA,California,Los Angeles,33.9336,-118.0312,4239.9,2,$283,552689
+Margate,FL,Florida,Broward,26.2466,-80.2119,2576.9,2,$283,204585
+Oak Lawn,IL,Illinois,Cook,41.7139,-87.7528,2497.1,2,$283,221992
+Carson City,NV,Nevada,Carson City,39.1511,-119.7476,147.6,2,$283,325739
+Fountainebleau,FL,Florida,Miami-Dade,25.7723,-80.346,5773.6,2,$283,221013
+Coconut Creek,FL,Florida,Broward,26.2803,-80.1842,2105.2,2,$283,241093
+Fountain Valley,CA,California,Orange,33.7105,-117.9514,2388.5,2,$282,816587
+Berwyn,IL,Illinois,Cook,41.8433,-87.7909,5424,2,$282,244488
+National City,CA,California,San Diego,32.6654,-117.0983,3223.3,2,$282,450674
+Arcadia,CA,California,Los Angeles,34.1342,-118.0373,2016,2,$282,1147538
+New Brunswick,NJ,New Jersey,Middlesex,40.487,-74.445,4131.4,2,$282,269940
+Huntington Park,CA,California,Los Angeles,33.98,-118.2167,7414.5,2,$282,451491
+Perth Amboy,NJ,New Jersey,Middlesex,40.5202,-74.2724,4272.5,2,$282,282825
+Tamiami,FL,Florida,Miami-Dade,25.7556,-80.4016,3054.8,2,$282,340762
+Westchester,FL,Florida,Miami-Dade,25.7471,-80.3523,2644.4,2,$282,367137
+Plainfield,NJ,New Jersey,Union,40.6154,-74.4157,3255.8,2,$282,286978
+Oak Park,IL,Illinois,Cook,41.8872,-87.7899,4280.3,2,$282,408771
+Paramount,CA,California,Los Angeles,33.8977,-118.1651,4406.9,2,$282,396263
+Aspen Hill,MD,Maryland,Montgomery,39.0927,-77.0826,2189.9,2,$282,440071
+Kendale Lakes,FL,Florida,Miami-Dade,25.7081,-80.4078,2664.8,2,$282,299845
+Aloha,OR,Oregon,Washington,45.492,-122.8725,2819.8,2,$282,370010
+Levittown,NY,New York,Nassau,40.7241,-73.5125,2905.6,2,$282,444961
+West New York,NJ,New Jersey,Hudson,40.7857,-74.0094,20495.1,2,$282,368223
+Bloomfield,NJ,New Jersey,Essex,40.8098,-74.1869,3598,2,$282,359909
+Placentia,CA,California,Orange,33.8807,-117.8553,3039.4,2,$282,698045
+Aliso Viejo,CA,California,Orange,33.5792,-117.7289,2808.9,2,$282,685612
+Wheaton,MD,Maryland,Montgomery,39.0492,-77.0573,2865.4,2,$282,398753
+Rosemead,CA,California,Los Angeles,34.0689,-118.0823,4028.1,2,$282,610356
+Florin,CA,California,Sacramento,38.4832,-121.4043,2164.1,2,$282,291075
+Country Club,FL,Florida,Miami-Dade,25.9407,-80.3102,4661.4,2,$282,277153
+Covina,CA,California,Los Angeles,34.0903,-117.8818,2622.4,2,$281,571654
+Lakewood,OH,Ohio,Cuyahoga,41.4822,-81.8008,3483.2,2,$281,185309
+North Bethesda,MD,Maryland,Montgomery,39.0393,-77.1191,2163.6,2,$281,595727
+Cypress,CA,California,Orange,33.8171,-118.0386,2868.8,2,$281,702066
+Cerritos,CA,California,Los Angeles,33.8678,-118.0686,2185,2,$281,763669
+Rye,NY,New York,Westchester,41.0075,-73.6872,2598.6,2,$281,585665
+North Highlands,CA,California,Sacramento,38.6713,-121.3721,2132.2,2,$281,264826
+Antelope,CA,California,Sacramento,38.7153,-121.361,2737.4,2,$281,361060
+Everett,MA,Massachusetts,Middlesex,42.4064,-71.0545,5229.7,2,$281,476308
+University,FL,Florida,Hillsborough,28.0771,-82.4335,2948.4,2,$281,119418
+La Mirada,CA,California,Los Angeles,33.9025,-118.0093,2382.3,2,$281,629773
+Arlington,MA,Massachusetts,Middlesex,42.4187,-71.1639,3406.7,2,$281,736685
+Hackensack,NJ,New Jersey,Bergen,40.8891,-74.0462,4077.8,2,$281,296198
+Cleveland Heights,OH,Ohio,Cuyahoga,41.5113,-81.5636,2114.8,2,$281,139552
+Whitney,NV,Nevada,Clark,36.1008,-115.0379,2522.2,2,$281,217100
+North Lauderdale,FL,Florida,Broward,26.2113,-80.2209,3691.5,2,$281,197922
+Salem,MA,Massachusetts,Essex,42.5129,-70.9021,2018.1,2,$281,396761
+Rohnert Park,CA,California,Sonoma,38.3479,-122.6965,2255.4,2,$281,542649
+Freeport,NY,New York,Nassau,40.6515,-73.585,3625.8,2,$281,386351
+Oakland Park,FL,Florida,Broward,26.178,-80.1528,2303.6,2,$281,265326
+Wilkes-Barre,PA,Pennsylvania,Luzerne,41.2469,-75.876,2300.6,2,$281,84717
+Campbell,CA,California,Santa Clara,37.2802,-121.9539,2723.4,2,$281,1251394
+San Bruno,CA,California,San Mateo,37.6256,-122.4313,3141.9,2,$281,1028066
+Concord,NH,New Hampshire,Merrimack,43.2305,-71.5595,262.6,2,$281,244784
+Greenacres,FL,Florida,Palm Beach,26.627,-80.1371,2654,2,$281,189480
+North Miami Beach,FL,Florida,Miami-Dade,25.9302,-80.1659,3413.3,2,$280,230958
+Hicksville,NY,New York,Nassau,40.7637,-73.5245,2414.1,2,$280,510299
+Jefferson City,MO,Missouri,Cole,38.5676,-92.1759,456.9,2,$280,169684
+Woonsocket,RI,Rhode Island,Providence,42.001,-71.4993,2074.3,2,$280,207415
+Annandale,VA,Virginia,Fairfax,38.8324,-77.196,2078,2,$280,544087
+Teaneck,NJ,New Jersey,Bergen,40.89,-74.0107,2586.2,2,$280,428988
+Hallandale Beach,FL,Florida,Broward,25.9854,-80.1423,3646.6,2,$280,230855
+Culver City,CA,California,Los Angeles,34.0058,-118.3968,2939.2,2,$280,970152
+Annapolis,MD,Maryland,Anne Arundel,38.9706,-76.5047,2106.8,2,$280,425941
+Montclair,NJ,New Jersey,Essex,40.8253,-74.2111,2391.3,2,$280,658072
+Valley Stream,NY,New York,Nassau,40.6647,-73.7043,4162,2,$280,469420
+Chelsea,MA,Massachusetts,Suffolk,42.3959,-71.0325,6939.7,2,$280,387381
+Waipahu,HI,Hawaii,Honolulu,21.3859,-158.0101,5518.4,2,$280,663341
+Bell Gardens,CA,California,Los Angeles,33.9663,-118.155,6558.7,2,$280,408960
+Lincoln Park,MI,Michigan,Wayne,42.2432,-83.1811,2416.3,2,$280,91801
+Aventura,FL,Florida,Miami-Dade,25.9566,-80.1371,5416.6,2,$280,346948
+Fort Lee,NJ,New Jersey,Bergen,40.8509,-73.9713,5803.5,2,$280,349087
+San Gabriel,CA,California,Los Angeles,34.0949,-118.099,3737.1,2,$280,769970
+Park Ridge,IL,Illinois,Cook,42.0125,-87.8436,2039.1,2,$280,454850
+Keizer,OR,Oregon,Marion,45.0028,-123.0243,2117.6,2,$280,302836
+Mission Bend,TX,Texas,Fort Bend,29.6948,-95.6658,3134.2,2,$280,167916
+La Presa,CA,California,San Diego,32.711,-117.0027,2627.4,2,$280,465646
+La Puente,CA,California,Los Angeles,34.0323,-117.9533,4415.2,2,$280,466717
+Stanton,CA,California,Orange,33.8003,-117.9935,4770.9,2,$280,398339
+East Meadow,NY,New York,Nassau,40.7197,-73.5604,2327.3,2,$280,508190
+Belleville,NJ,New Jersey,Essex,40.795,-74.1617,4257.2,2,$279,320108
+Northglenn,CO,Colorado,Adams,39.9108,-104.9783,2056.3,2,$279,351501
+Montclair,CA,California,San Bernardino,34.0715,-117.6981,2795.2,2,$279,417367
+Richmond West,FL,Florida,Miami-Dade,25.6105,-80.4297,3435.8,2,$279,348803
+Hanover Park,IL,Illinois,DuPage,41.9818,-88.1446,2273.3,2,$279,216076
+Foothill Farms,CA,California,Sacramento,38.6867,-121.3475,3282.5,2,$279,287571
+Kendall West,FL,Florida,Miami-Dade,25.7065,-80.4388,5335.8,2,$279,294257
+Richfield,MN,Minnesota,Hennepin,44.8763,-93.2829,2065.2,2,$279,259208
+Kearns,UT,Utah,Salt Lake,40.6519,-112.0095,3039.8,2,$279,239317
+Elmont,NY,New York,Nassau,40.7033,-73.7078,4104.3,2,$279,451402
+Temple City,CA,California,Los Angeles,34.1022,-118.0579,3442.3,2,$279,775522
+Chillum,MD,Maryland,Prince George's,38.9666,-76.9791,3919.4,2,$279,334892
+Winchester,NV,Nevada,Clark,36.1365,-115.137,2826.8,2,$279,209700
+South Miami Heights,FL,Florida,Miami-Dade,25.5886,-80.3862,2807.2,2,$279,280932
+Egypt Lake-Leto,FL,Florida,Hillsborough,28.0177,-82.5062,2468.7,2,$279,210490
+Buenaventura Lakes,FL,Florida,Osceola,28.3349,-81.3539,2431.2,2,$279,215735
+Westmont,CA,California,Los Angeles,33.9417,-118.3018,7355.3,2,$279,527175
+Lauderdale Lakes,FL,Florida,Broward,26.1682,-80.2017,3782.9,2,$279,158739
+West Hollywood,CA,California,Los Angeles,34.0883,-118.3719,7263,2,$279,783889
+Norristown,PA,Pennsylvania,Montgomery,40.1225,-75.3398,3777.5,2,$279,167640
+Manhattan Beach,CA,California,Los Angeles,33.8894,-118.3967,3441.2,2,$279,1979075
+Midvale,UT,Utah,Salt Lake,40.6148,-111.8927,2200.6,2,$279,301566
+Watertown Town,MA,Massachusetts,Middlesex,42.37,-71.1774,3454,2,$279,640879
+College Park,MD,Maryland,Prince George's,38.996,-76.9337,2217,2,$279,359355
+University City,MO,Missouri,St. Louis,38.6657,-90.3315,2256,2,$279,279914
+Fair Lawn,NJ,New Jersey,Bergen,40.9359,-74.1177,2480.2,2,$278,447909
+Long Beach,NY,New York,Nassau,40.5887,-73.666,5828.1,2,$278,566889
+Montgomery Village,MD,Maryland,Montgomery,39.1788,-77.1954,3422.7,2,$278,322288
+Fair Oaks,VA,Virginia,Fairfax,38.8653,-77.3586,2665.6,2,$278,493286
+Eastchester,NY,New York,Westchester,40.9536,-73.8133,2606.8,2,$278,663509
+Eastpointe,MI,Michigan,Macomb,42.4657,-82.9461,2412.1,2,$278,94863
+Huntington Station,NY,New York,Suffolk,40.8446,-73.405,2370.1,2,$278,411281
+North Providence,RI,Rhode Island,Providence,41.8616,-71.4575,2228.5,2,$278,256287
+Golden Glades,FL,Florida,Miami-Dade,25.9129,-80.2013,2704.2,2,$278,270211
+Bell,CA,California,Los Angeles,33.9801,-118.1798,5434.4,2,$278,450933
+City of Orange,NJ,New Jersey,Essex,40.7681,-74.2348,5334.3,2,$278,268119
+Mount Lebanon,PA,Pennsylvania,Allegheny,40.3752,-80.0494,2020.4,2,$278,306013
+Foster City,CA,California,San Mateo,37.5553,-122.2659,3370,2,$278,1484090
+Englewood,CO,Colorado,Arapahoe,39.6468,-104.9942,2050.3,2,$278,409339
+Glendale Heights,IL,Illinois,DuPage,41.9196,-88.0785,2428,2,$278,208673
+Baldwin,NY,New York,Nassau,40.6511,-73.6075,3091.4,2,$278,449528
+Dana Point,CA,California,Orange,33.4733,-117.6967,2010.3,2,$278,967076
+West Little River,FL,Florida,Miami-Dade,25.8571,-80.2367,2718.7,2,$278,190786
+Spring Valley,NY,New York,Rockland,41.1151,-74.0486,6209.4,2,$278,308783
+Beverly Hills,CA,California,Los Angeles,34.0786,-118.4021,2280.2,2,$278,2000001
+Chester,PA,Pennsylvania,Delaware,39.8456,-75.3718,2704.4,2,$278,72555
+Uniondale,NY,New York,Nassau,40.7176,-73.5947,2205.3,2,$278,423477
+Kiryas Joel,NY,New York,Orange,41.3411,-74.1667,6843.8,2,$278,567226
+Garfield,NJ,New Jersey,Bergen,40.8791,-74.1085,5801.9,2,$278,375141
+Franklin Square,NY,New York,Nassau,40.7002,-73.6775,4228.1,2,$278,556205
+Juneau,AK,Alaska,Juneau,58.4546,-134.1739,4.6,2,$277,357894
+Helena,MT,Montana,Lewis and Clark,46.5965,-112.0202,748.8,2,$277,278458
+Lawndale,CA,California,Los Angeles,33.8884,-118.3531,6369.2,2,$277,577786
+San Pablo,CA,California,Contra Costa,37.9629,-122.3426,4554.7,2,$277,413827
+Ithaca,NY,New York,Tompkins,42.4442,-76.5032,2200.7,2,$277,278284
+Long Branch,NJ,New Jersey,Monmouth,40.2965,-73.9915,2292.3,2,$277,397756
+Bay Shore,NY,New York,Suffolk,40.7288,-73.2495,2163.6,2,$277,376602
+Port Chester,NY,New York,Westchester,41.0051,-73.668,4844.2,2,$277,497882
+Sterling,VA,Virginia,Loudoun,39.0052,-77.405,2185.7,2,$277,403939
+Oceanside,NY,New York,Nassau,40.6328,-73.6364,2337.8,2,$277,535640
+Burlingame,CA,California,San Mateo,37.5859,-122.3667,2642.9,2,$277,1969823
+West Falls Church,VA,Virginia,Fairfax,38.8648,-77.1878,2418.1,2,$277,576890
+Ridley,PA,Pennsylvania,Delaware,39.8854,-75.328,2352.8,2,$277,204341
+Parkville,MD,Maryland,Baltimore,39.3832,-76.5519,2744.7,2,$277,212729
+San Carlos,CA,California,San Mateo,37.4982,-122.2677,2115.1,2,$277,1890964
+Santa Paula,CA,California,Ventura,34.3545,-119.0656,2115.3,2,$277,435700
+Miami Lakes,FL,Florida,Miami-Dade,25.9125,-80.3214,2117.2,2,$277,443465
+San Lorenzo,CA,California,Alameda,37.6733,-122.1332,3818,2,$277,651636
+Middletown,NY,New York,Orange,41.4459,-74.4236,2039,2,$277,190743
+Nutley,NJ,New Jersey,Essex,40.8192,-74.1571,3266.5,2,$277,404466
+East Palo Alto,CA,California,San Mateo,37.4671,-122.1352,4497.7,2,$277,957907
+Oak Park,MI,Michigan,Oakland,42.4649,-83.1824,2209,2,$277,145490
+Rahway,NJ,New Jersey,Union,40.6077,-74.2807,2942.3,2,$277,293347
+Melrose,MA,Massachusetts,Middlesex,42.4556,-71.059,2312.7,2,$277,638497
+Laurel,MD,Maryland,Prince George's,39.0949,-76.8622,2063.7,2,$277,297149
+Suisun City,CA,California,Solano,38.2473,-122.0091,2839.7,2,$276,418571
+Burbank,IL,Illinois,Cook,41.7444,-87.7686,2634.1,2,$276,215315
+Golden Gate,FL,Florida,Collier,26.1844,-81.7031,3003.7,2,$276,268133
+Englewood,NJ,New Jersey,Bergen,40.8917,-73.9736,2225.5,2,$276,409003
+East Niles,CA,California,Kern,35.3683,-118.9225,2114.3,2,$276,159963
+Drexel Hill,PA,Pennsylvania,Delaware,39.9495,-75.3038,3371.5,2,$276,190297
+Frankfort,KY,Kentucky,Franklin,38.1924,-84.8643,724.2,2,$276,135577
+Bergenfield,NJ,New Jersey,Bergen,40.9236,-73.9982,3639.5,2,$276,386204
+Ewa Gentry,HI,Hawaii,Honolulu,21.3344,-158.0262,4780.3,2,$276,618838
+Belmont,CA,California,San Mateo,37.5154,-122.2953,2248.7,2,$276,1682156
+Mililani Town,HI,Hawaii,Honolulu,21.4465,-158.0147,2644.3,2,$276,731070
+Reisterstown,MD,Maryland,Baltimore,39.455,-76.814,2108.3,2,$276,266469
+Easton,PA,Pennsylvania,Northampton,40.6858,-75.2209,2470,2,$276,132171
+Hamtramck,MI,Michigan,Wayne,42.3954,-83.0559,4009.9,2,$276,82332
+Lemon Grove,CA,California,San Diego,32.7331,-117.0344,2661.7,2,$276,478737
+Monsey,NY,New York,Rockland,41.1181,-74.0682,3996.9,2,$276,731853
+Lindenhurst,NY,New York,Suffolk,40.6858,-73.371,2770.4,2,$276,395381
+Belmont,MA,Massachusetts,Middlesex,42.396,-71.1795,2173.3,2,$276,940938
+South Pasadena,CA,California,Los Angeles,34.1103,-118.1573,2885.7,2,$276,1167435
+Leisure City,FL,Florida,Miami-Dade,25.4935,-80.4363,3161,2,$276,246732
+Bridgeton,NJ,New Jersey,Cumberland,39.4286,-75.2281,5433.1,2,$276,110464
+Palm Springs,FL,Florida,Palm Beach,26.6348,-80.0969,2309.7,2,$276,174195
+Suitland,MD,Maryland,Prince George's,38.8492,-76.9225,2298,2,$276,256750
+Imperial Beach,CA,California,San Diego,32.5693,-117.118,2459.7,2,$276,636786
+West Whittier-Los Nietos,CA,California,Los Angeles,33.9759,-118.0689,4001.5,2,$276,509119
+Tysons,VA,Virginia,Fairfax,38.9215,-77.2273,2283.9,2,$275,549919
+Lodi,NJ,New Jersey,Bergen,40.8784,-74.0814,4144.2,2,$275,393333
+Oak Ridge,FL,Florida,Orange,28.4727,-81.4169,2567.2,2,$275,155044
+El Cerrito,CA,California,Contra Costa,37.9196,-122.3025,2658.3,2,$275,894197
+Coral Terrace,FL,Florida,Miami-Dade,25.7464,-80.3049,2934.4,2,$275,392956
+Rockville Centre,NY,New York,Nassau,40.6643,-73.6383,2916,2,$275,691118
+Ives Estates,FL,Florida,Miami-Dade,25.9632,-80.183,3747.3,2,$275,217685
+Cloverleaf,TX,Texas,Harris,29.7882,-95.1724,3246,2,$275,122496
+Mill Creek East,WA,Washington,Snohomish,47.8361,-122.1877,2138.5,2,$275,638271
+Cliffside Park,NJ,New Jersey,Bergen,40.8222,-73.9879,10264.8,2,$275,469480
+Maywood,CA,California,Los Angeles,33.9886,-118.1877,8938.8,2,$275,484789
+Maplewood,NJ,New Jersey,Essex,40.733,-74.2712,2505.1,2,$275,565484
+Melrose Park,IL,Illinois,Cook,41.903,-87.8636,2253.1,2,$275,221103
+Terrytown,LA,Louisiana,Jefferson,29.9014,-90.0279,2744.5,2,$275,177411
+Peekskill,NY,New York,Westchester,41.2884,-73.9227,2143,2,$275,306325
+Soledad,CA,California,Monterey,36.4432,-121.3426,2221.9,2,$275,416812
+Carteret,NJ,New Jersey,Middlesex,40.5849,-74.2284,2066.5,2,$275,284458
+University Park,TX,Texas,Dallas,32.8506,-96.7937,2621.7,2,$275,1385947
+South Bradenton,FL,Florida,Manatee,27.4612,-82.5822,2135.1,2,$275,105650
+Riverbank,CA,California,Stanislaus,37.726,-120.9433,2017.6,2,$275,343401
+Herndon,VA,Virginia,Fairfax,38.9699,-77.3867,2213.8,2,$275,469976
+North Lynnwood,WA,Washington,Snohomish,47.8533,-122.2762,2973.4,2,$275,432926
+Elmwood Park,IL,Illinois,Cook,41.9225,-87.8163,4911.1,2,$275,275842
+Landover,MD,Maryland,Prince George's,38.9241,-76.8875,2219.2,2,$275,258033
+Bailey's Crossroads,VA,Virginia,Fairfax,38.8477,-77.1305,4415.5,2,$274,368439
+Rosemont,CA,California,Sacramento,38.5478,-121.3553,2090.9,2,$274,350679
+Decatur,GA,Georgia,DeKalb,33.7711,-84.2963,2084.2,2,$274,586921
+San Fernando,CA,California,Los Angeles,34.2886,-118.4362,3942.4,2,$274,527298
+Willowbrook,CA,California,Los Angeles,33.9209,-118.2356,5619.9,2,$274,375073
+Watauga,TX,Texas,Tarrant,32.8719,-97.2515,2273.2,2,$274,169824
+Ashland,CA,California,Alameda,37.6942,-122.1159,4938.1,2,$274,585200
+Copiague,NY,New York,Suffolk,40.6707,-73.3922,2896.8,2,$274,358827
+Maywood,IL,Illinois,Cook,41.8798,-87.8442,3317.8,2,$274,166753
+Jasmine Estates,FL,Florida,Pasco,28.293,-82.6907,2400.5,2,$274,122061
+Millbrae,CA,California,San Mateo,37.5994,-122.4023,2716.5,2,$274,1605549
+Cudahy,CA,California,Los Angeles,33.9631,-118.183,7748.7,2,$274,
+West Puente Valley,CA,California,Los Angeles,34.0513,-117.9681,4864.7,2,$274,472210
+East San Gabriel,CA,California,Los Angeles,34.1157,-118.0791,4090.3,2,$274,818440
+Blue Island,IL,Illinois,Cook,41.6578,-87.6811,2196.4,2,$274,134106
+Hialeah Gardens,FL,Florida,Miami-Dade,25.8878,-80.3569,2821.6,2,$274,234726
+North Plainfield,NJ,New Jersey,Somerset,40.6209,-74.4386,2949.3,2,$274,283096
+Woodlawn,VA,Virginia,Fairfax,38.7332,-77.1149,3814.9,2,$274,287629
+Roselle,NJ,New Jersey,Union,40.6527,-74.2599,3179.5,2,$274,250155
+The Crossings,FL,Florida,Miami-Dade,25.6708,-80.4018,2594.6,2,$274,325511
+Dover,PA,Pennsylvania,York,40.0019,-76.8698,202.7,2,$274,169021
+Hillside,NJ,New Jersey,Union,40.6961,-74.2286,3063.9,2,$274,300319
+Massapequa,NY,New York,Nassau,40.6676,-73.4706,2336,2,$274,570681
+Sunny Isles Beach,FL,Florida,Miami-Dade,25.9385,-80.1246,8349.2,2,$274,358341
+Central Falls,RI,Rhode Island,Providence,41.8901,-71.3934,6285.3,2,$274,184425
+West Carson,CA,California,Los Angeles,33.8229,-118.2931,3867.6,2,$273,511213
+West Rancho Dominguez,CA,California,Los Angeles,33.9057,-118.2683,2135.4,2,$273,444658
+Hayesville,OR,Oregon,Marion,44.9793,-122.9738,2836.8,2,$273,229616
+Valinda,CA,California,Los Angeles,34.04,-117.93,4347.7,2,$273,501290
+Four Square Mile,CO,Colorado,Arapahoe,39.6808,-104.888,3143.2,2,$273,365428
+Columbia Heights,MN,Minnesota,Anoka,45.0484,-93.2472,2294,2,$273,210457
+North Bellmore,NY,New York,Nassau,40.6904,-73.539,3156.6,2,$273,544991
+Lennox,CA,California,Los Angeles,33.938,-118.3586,7936.6,2,$273,560035
+Elmwood Park,NJ,New Jersey,Bergen,40.9049,-74.1201,2924.6,2,$273,378934
+Lealman,FL,Florida,Pinellas,27.8197,-82.6847,2075.4,2,$273,128468
+Mountlake Terrace,WA,Washington,Snohomish,47.7921,-122.3077,2030.4,2,$273,452370
+McNair,VA,Virginia,Fairfax,38.9513,-77.4115,3928.4,2,$273,453594
+Lomita,CA,California,Los Angeles,33.7933,-118.3175,4081,2,$273,642034
+Mineola,NY,New York,Nassau,40.747,-73.6394,4018.6,2,$273,562794
+Hyattsville,MD,Maryland,Prince George's,38.9613,-76.9548,2607.4,2,$273,380330
+Langley Park,MD,Maryland,Prince George's,38.9897,-76.9808,7530.6,2,$273,248888
+West Hempstead,NY,New York,Nassau,40.6959,-73.6507,2874.5,2,$273,503062
+Lynbrook,NY,New York,Nassau,40.6579,-73.6742,3729.9,2,$273,519604
+Palisades Park,NJ,New Jersey,Bergen,40.8472,-73.9966,6448.7,2,$273,603698
+La Crescenta-Montrose,CA,California,Los Angeles,34.2322,-118.2353,2271.8,2,$273,927048
+Sherrelwood,CO,Colorado,Adams,39.839,-105.0014,3019.8,2,$273,326221
+Morristown,NJ,New Jersey,Morris,40.7967,-74.4772,2530.3,2,$273,469191
+Albany,CA,California,Alameda,37.8897,-122.3018,4345.3,2,$273,966931
+Evergreen Park,IL,Illinois,Cook,41.7213,-87.7013,2355,2,$273,212128
+South El Monte,CA,California,Los Angeles,34.0493,-118.0484,2823,2,$273,477830
+North Amityville,NY,New York,Suffolk,40.7005,-73.4119,3094.8,2,$272,357972
+Hermosa Beach,CA,California,Los Angeles,33.8653,-118.3962,5185,2,$272,1675865
+South San Jose Hills,CA,California,Los Angeles,34.0123,-117.9043,4925.2,2,$272,403843
+Bayshore Gardens,FL,Florida,Manatee,27.4345,-82.5793,2241.7,2,$272,122203
+Seabrook,MD,Maryland,Prince George's,38.9802,-76.8502,2386.5,2,$272,323494
+Brookfield,IL,Illinois,Cook,41.8245,-87.847,2334,2,$272,276349
+Hawthorne,NJ,New Jersey,Passaic,40.9579,-74.1582,2182.9,2,$272,420358
+Sweetwater,FL,Florida,Miami-Dade,25.7785,-80.376,3672.7,2,$272,188518
+Ferndale,MI,Michigan,Oakland,42.4592,-83.1313,2005.5,2,$272,193688
+Winthrop,MA,Massachusetts,Suffolk,42.3761,-70.9846,4532.3,2,$272,517151
+Merrifield,VA,Virginia,Fairfax,38.8731,-77.2426,2650.2,2,$272,519101
+East Massapequa,NY,New York,Nassau,40.6742,-73.4359,2121.2,2,$272,496517
+Cedar Mill,OR,Oregon,Washington,45.5355,-122.8006,2164.6,2,$272,668779
+Norwood,OH,Ohio,Hamilton,39.1605,-84.4535,2437.6,2,$272,162127
+Point Pleasant,NJ,New Jersey,Ocean,40.0772,-74.0702,2066.6,2,$272,411630
+Greenfield,CA,California,Monterey,36.3242,-121.2428,2327,2,$272,349152
+Harrison,NJ,New Jersey,Hudson,40.7431,-74.1531,5838,2,$272,376913
+Rutherford,NJ,New Jersey,Bergen,40.8203,-74.1057,2551.2,2,$272,503229
+Bellwood,IL,Illinois,Cook,41.8829,-87.8762,3026.7,2,$272,174896
+North Babylon,NY,New York,Suffolk,40.7314,-73.3248,2093,2,$272,388315
+Country Walk,FL,Florida,Miami-Dade,25.633,-80.4353,2801.1,2,$272,387721
+Sudley,VA,Virginia,Prince William,38.7878,-77.4961,2524,2,$272,326368
+West Chester,PA,Pennsylvania,Chester,39.9601,-75.6058,4189.5,2,$272,406682
+North Massapequa,NY,New York,Nassau,40.7031,-73.4678,2352,2,$272,511957
+North Bay Shore,NY,New York,Suffolk,40.7602,-73.2617,2382.7,2,$272,341957
+Lansdale,PA,Pennsylvania,Montgomery,40.2417,-75.2812,2173.5,2,$271,252356
+Dover,NJ,New Jersey,Morris,40.8859,-74.5597,2578.1,2,$271,275931
+Hybla Valley,VA,Virginia,Fairfax,38.7484,-77.0821,3467.6,2,$271,338850
+Kingstowne,VA,Virginia,Fairfax,38.7625,-77.1444,2367.5,2,$271,512396
+North Valley Stream,NY,New York,Nassau,40.684,-73.7077,3875.2,2,$271,481930
+Franconia,VA,Virginia,Fairfax,38.7682,-77.1587,2161.8,2,$271,453332
+Schofield Barracks,HI,Hawaii,Honolulu,21.4936,-158.0617,2546.3,2,$271,
+Burke Centre,VA,Virginia,Fairfax,38.7903,-77.2999,2212.6,2,$271,483739
+Bostonia,CA,California,San Diego,32.8189,-116.948,3514,2,$271,
+South Orange Village,NJ,New Jersey,Essex,40.7491,-74.2602,2256.8,2,$271,669261
+Roosevelt,NY,New York,Nassau,40.6797,-73.5837,3603.5,2,$271,353892
+Dumont,NJ,New Jersey,Bergen,40.9452,-73.9923,3485.5,2,$271,393336
+Brownsville,FL,Florida,Miami-Dade,25.8216,-80.2417,2959.9,2,$271,231197
+Idylwood,VA,Virginia,Fairfax,38.8896,-77.2056,2494.8,2,$271,622998
+Iselin,NJ,New Jersey,Middlesex,40.5697,-74.3172,2126.2,2,$271,327908
+Bryn Mawr-Skyway,WA,Washington,King,47.4949,-122.241,2386.7,2,$271,479317
+Takoma Park,MD,Maryland,Montgomery,38.981,-77.0028,3269.9,2,$271,621868
+Glassmanor,MD,Maryland,Prince George's,38.8181,-76.9833,2707.3,2,$271,271799
+Wahiawa,HI,Hawaii,Honolulu,21.5012,-158.0178,2773.1,2,$271,579326
+Woodmere,NY,New York,Nassau,40.6375,-73.7219,2546.5,2,$271,801957
+Bellaire,TX,Texas,Harris,29.704,-95.4621,2024.7,2,$271,860761
+Massapequa Park,NY,New York,Nassau,40.6817,-73.4496,3021.3,2,$271,540101
+East Riverdale,MD,Maryland,Prince George's,38.96,-76.9109,3918.9,2,$271,291847
+Pinewood,FL,Florida,Miami-Dade,25.8697,-80.2174,3754.3,2,$271,230866
+Hillcrest Heights,MD,Maryland,Prince George's,38.8373,-76.9641,2561.4,2,$271,265375
+Manassas Park,VA,Virginia,Manassas Park,38.7709,-77.4429,2233.3,2,$270,328830
+Adelphi,MD,Maryland,Prince George's,39.0017,-76.9649,2326.5,2,$270,340814
+New Milford,NJ,New Jersey,Bergen,40.9337,-74.0196,2786.7,2,$270,440857
+Clayton,MO,Missouri,St. Louis,38.6444,-90.3303,2580.8,2,$270,683186
+Bull Run,VA,Virginia,Prince William,38.7802,-77.5204,2481.4,2,$270,290167
+Ocean Pointe,HI,Hawaii,Honolulu,21.3145,-158.0289,2992.8,2,$270,700418
+Palmetto Estates,FL,Florida,Miami-Dade,25.6211,-80.3616,2937.2,2,$270,307786
+Four Corners,OR,Oregon,Marion,44.929,-122.9732,2603.3,2,$270,233406
+Bellmore,NY,New York,Nassau,40.6569,-73.5285,2599.9,2,$270,569444
+Ojus,FL,Florida,Miami-Dade,25.9563,-80.1606,2473.8,2,$270,297387
+Walnut Park,CA,California,Los Angeles,33.9682,-118.222,8211.9,2,$270,459011
+Vincent,CA,California,Los Angeles,34.0983,-117.9238,4300.6,2,$270,479887
+Artesia,CA,California,Los Angeles,33.8676,-118.0805,3920.9,2,$270,637048
+South Houston,TX,Texas,Harris,29.6611,-95.2285,2220.8,2,$270,123531
+North Arlington,NJ,New Jersey,Bergen,40.7874,-74.1273,2437.1,2,$270,389259
+Stanford,CA,California,Santa Clara,37.4252,-122.1674,2274.1,2,$270,1864021
+La Grange,IL,Illinois,Cook,41.8072,-87.8741,2378.7,2,$270,517349
+Weehawken,NJ,New Jersey,Hudson,40.7677,-74.0168,7269.1,2,$270,731207
+Floral Park,NY,New York,Nassau,40.7227,-73.7029,4341.8,2,$270,617101
+Parkway,CA,California,Sacramento,38.4993,-121.452,2609.3,2,$270,291483
+South River,NJ,New Jersey,Middlesex,40.4455,-74.3783,2200.7,2,$270,321970
+New Cassel,NY,New York,Nassau,40.7602,-73.5649,3915.5,2,$270,419029
+Glenmont,MD,Maryland,Montgomery,39.0698,-77.0467,2083.6,2,$270,444968
+Stone Ridge,VA,Virginia,Loudoun,38.9294,-77.5557,2245.9,2,$270,544357
+Westbury,NY,New York,Nassau,40.7599,-73.5891,2527.1,2,$270,496304
+Isla Vista,CA,California,Santa Barbara,34.4128,-119.8614,11020,2,$269,
+White Center,WA,Washington,King,47.5086,-122.3479,2718.3,2,$269,462192
+La Palma,CA,California,Orange,33.8504,-118.0407,3395.1,2,$269,734726
+Seaford,NY,New York,Nassau,40.6678,-73.4922,2241.8,2,$269,536172
+Cherryland,CA,California,Alameda,37.6792,-122.1038,5168.9,2,$269,582911
+Princeton Meadows,NJ,New Jersey,Middlesex,40.3347,-74.5651,2159.5,2,$269,576330
+Asbury Park,NJ,New Jersey,Monmouth,40.2226,-74.0119,4197.7,2,$269,377417
+Norridge,IL,Illinois,Cook,41.9637,-87.8231,3089.5,2,$269,313591
+Harper Woods,MI,Michigan,Wayne,42.439,-82.9293,2030.6,2,$269,111885
+Haddon,NJ,New Jersey,Camden,39.9063,-75.0625,2088.4,2,$269,287525
+Berkley,MI,Michigan,Oakland,42.4986,-83.1853,2266.8,2,$269,238886
+Hazel Park,MI,Michigan,Oakland,42.4619,-83.0977,2254.1,2,$269,105042
+Kenmore,NY,New York,Erie,42.9646,-78.8713,4055.4,2,$269,152623
+Pacific Grove,CA,California,Monterey,36.6188,-121.9259,2084.5,2,$269,927252
+North New Hyde Park,NY,New York,Nassau,40.746,-73.6876,2899.3,2,$269,682366
+West Park,FL,Florida,Broward,25.984,-80.1923,2643.9,2,$269,251505
+South Farmingdale,NY,New York,Nassau,40.7175,-73.4473,2600,2,$269,460989
+Halawa,HI,Hawaii,Honolulu,21.3753,-157.9185,2255.2,2,$269,852351
+West University Place,TX,Texas,Harris,29.7157,-95.4321,3003.4,2,$269,1218605
+Highland Park,NJ,New Jersey,Middlesex,40.5006,-74.4283,2926.5,2,$269,376166
+Fairview,NJ,New Jersey,Bergen,40.8182,-74.0022,6506.9,2,$269,431871
+Whitefish Bay,WI,Wisconsin,Milwaukee,43.1131,-87.9003,2535.3,2,$269,411494
+Lake Stickney,WA,Washington,Snohomish,47.8733,-122.2582,2777.3,2,$269,470730
+Salida,CA,California,Stanislaus,37.7083,-121.0842,2659.6,2,$269,344601
+Parlier,CA,California,Fresno,36.6087,-119.5434,2507.9,2,$269,183198
+Ewa Beach,HI,Hawaii,Honolulu,21.3181,-158.0073,4473.8,2,$268,584191
+Key Biscayne,FL,Florida,Miami-Dade,25.6908,-80.1653,3983.1,2,$268,1248705
+Kemp Mill,MD,Maryland,Montgomery,39.0412,-77.0215,2279,2,$268,442114
+Falls Church,VA,Virginia,Falls Church,38.8847,-77.1751,2699.7,2,$268,840269
+Wilkinsburg,PA,Pennsylvania,Allegheny,40.4442,-79.8733,2633.6,2,$268,103611
+Lemon Hill,CA,California,Sacramento,38.5172,-121.4573,3556,2,$268,252520
+East Rancho Dominguez,CA,California,Los Angeles,33.8949,-118.1956,7170.2,2,$268,405088
+Clarkston,GA,Georgia,DeKalb,33.8117,-84.2403,2667.9,2,$268,194291
+Chicago Ridge,IL,Illinois,Cook,41.7034,-87.7795,2388.2,2,$268,169102
+Ardmore,PA,Pennsylvania,Montgomery,40.0033,-75.2947,2658.7,2,$268,354079
+Newport,KY,Kentucky,Campbell,39.0856,-84.4868,2108.4,2,$268,164269
+North Fair Oaks,CA,California,San Mateo,37.4754,-122.2034,4839.8,2,$268,1062336
+Forest Park,IL,Illinois,Cook,41.8683,-87.8157,2219.8,2,$268,267061
+Edgewater,NJ,New Jersey,Bergen,40.8237,-73.974,5125.2,2,$268,654771
+Flower Hill,MD,Maryland,Montgomery,39.1676,-77.1824,2620,2,$268,356417
+East Cleveland,OH,Ohio,Cuyahoga,41.5317,-81.5794,2134.9,2,$268,65396
+Hawaiian Gardens,CA,California,Los Angeles,33.8304,-118.0728,5805.6,2,$268,426217
+Willowick,OH,Ohio,Lake,41.6342,-81.4678,2146.5,2,$268,127435
+Gladeview,FL,Florida,Miami-Dade,25.8395,-80.2368,2034.9,2,$268,183067
+Pierre,SD,South Dakota,Hughes,44.3748,-100.3205,412.2,2,$268,183376
+Federal Heights,CO,Colorado,Adams,39.8651,-105.0154,2937.4,2,$268,138766
+Collingswood,NJ,New Jersey,Camden,39.916,-75.0758,3097.2,2,$268,275497
+Huntington,VA,Virginia,Fairfax,38.7916,-77.074,4624.4,2,$268,425469
+Roselle Park,NJ,New Jersey,Union,40.6653,-74.2666,4280.1,2,$268,319762
+University Heights,OH,Ohio,Cuyahoga,41.4948,-81.535,2728.9,2,$267,179376
+Bexley,OH,Ohio,Franklin,39.965,-82.9343,2201.6,2,$267,405924
+Waimalu,HI,Hawaii,Honolulu,21.3913,-157.9345,2891.9,2,$267,470003
+Westmont,NJ,New Jersey,Camden,39.9082,-75.0551,2273.6,2,$267,301200
+Shorewood,WI,Wisconsin,Milwaukee,43.0913,-87.8864,3217.8,2,$267,356749
+Olympia Heights,FL,Florida,Miami-Dade,25.724,-80.3388,2034.7,2,$267,396974
+Little Falls,NJ,New Jersey,Passaic,40.8762,-74.2181,2001.4,2,$267,379574
+Wyandanch,NY,New York,Suffolk,40.7496,-73.3633,2068.4,2,$267,312896
+New Carrollton,MD,Maryland,Prince George's,38.9656,-76.8775,3187.6,2,$267,315661
+Indiana,PA,Pennsylvania,Indiana,40.622,-79.1552,2888.6,2,$267,113009
+La Grange Park,IL,Illinois,Cook,41.8308,-87.8723,2270.6,2,$267,372009
+Bothell East,WA,Washington,Snohomish,47.8064,-122.1844,2424.6,2,$267,802288
+Avocado Heights,CA,California,Los Angeles,34.0391,-117.997,2373.6,2,$267,569848
+Coatesville,PA,Pennsylvania,Chester,39.9849,-75.82,2796,2,$267,126029
+Kingston,PA,Pennsylvania,Luzerne,41.2652,-75.8876,2313.2,2,$267,130980
+Carpinteria,CA,California,Santa Barbara,34.3962,-119.5118,2006.1,2,$267,721999
+Woodland Park,NJ,New Jersey,Passaic,40.8904,-74.1946,3292.5,2,$267,398683
+Maili,HI,Hawaii,Honolulu,21.4133,-158.1701,2844.4,2,$267,502638
+Ridgefield Park,NJ,New Jersey,Bergen,40.8543,-74.0201,2928.1,2,$267,389359
+Pelham,NY,New York,Westchester,40.9,-73.8063,2217.7,2,$267,808719
+Sugarland Run,VA,Virginia,Loudoun,39.0309,-77.3762,2432.7,2,$267,450021
+Home Gardens,CA,California,Riverside,33.8783,-117.5116,3076,2,$267,396993
+Naranja,FL,Florida,Miami-Dade,25.5164,-80.4222,3160.7,2,$267,225715
+Fords,NJ,New Jersey,Middlesex,40.5359,-74.3126,2556.8,2,$267,328034
+Cornelius,OR,Oregon,Washington,45.5188,-123.051,2107.5,2,$267,324114
+Grover Beach,CA,California,San Luis Obispo,35.1204,-120.6197,2251.3,2,$266,577091
+Red Bank,NJ,New Jersey,Monmouth,40.348,-74.0672,2662.8,2,$266,403160
+Emeryville,CA,California,Alameda,37.8382,-122.2932,3541.7,2,$266,569489
+Salisbury,NY,New York,Nassau,40.7454,-73.5604,2757.1,2,$266,543569
+Somerville,NJ,New Jersey,Somerset,40.5696,-74.6092,2004.9,2,$266,341578
+North Merrick,NY,New York,Nassau,40.6871,-73.5615,2703.8,2,$266,551793
+Patchogue,NY,New York,Suffolk,40.7621,-73.0185,2116.3,2,$266,364724
+Alum Rock,CA,California,Santa Clara,37.3694,-121.8238,5242.3,2,$266,722716
+Newman,CA,California,Stanislaus,37.3156,-121.0212,2152,2,$266,298830
+Hasbrouck Heights,NJ,New Jersey,Bergen,40.8618,-74.0741,3048,2,$266,448418
+River Edge,NJ,New Jersey,Bergen,40.9269,-74.0387,2425,2,$266,549465
+South Miami,FL,Florida,Miami-Dade,25.7079,-80.2952,2036.5,2,$266,578094
+Yeadon,PA,Pennsylvania,Delaware,39.9325,-75.2527,2782.9,2,$266,141060
+University of California-Santa Barbara,CA,California,Santa Barbara,34.4151,-119.8568,3469.9,2,$266,425164
+Guttenberg,NJ,New Jersey,Hudson,40.7928,-74.0049,18829.8,2,$266,313600
+Wallington,NJ,New Jersey,Bergen,40.8536,-74.1069,4487.2,2,$266,394857
+Rossmoor,CA,California,Orange,33.7887,-118.0803,2952.1,2,$266,1099919
+North Wantagh,NY,New York,Nassau,40.6983,-73.5086,2392.1,2,$266,480359
+Bound Brook,NJ,New Jersey,Somerset,40.5676,-74.5383,2383.1,2,$266,292166
+Signal Hill,CA,California,Los Angeles,33.803,-118.1681,2015.7,2,$266,569902
+La Riviera,CA,California,Sacramento,38.5683,-121.3544,2351.4,2,$266,337417
+Oak Hills,OR,Oregon,Washington,45.5405,-122.8413,2896.2,2,$266,505092
+Wilton Manors,FL,Florida,Broward,26.1593,-80.1395,2466.3,2,$266,421528
+Clawson,MI,Michigan,Oakland,42.5367,-83.1504,2090.4,2,$266,205700
+Hillcrest,CA,California,Kern,35.379,-118.9578,3305.6,2,$266,191461
+Cherry Creek,CO,Colorado,Arapahoe,39.6094,-104.8645,2660,2,$265,696415
+Suffern,NY,New York,Rockland,41.1138,-74.1422,2015.1,2,$265,290215
+Piedmont,CA,California,Alameda,37.8225,-122.2301,2601.8,2,$265,2000001
+View Park-Windsor Hills,CA,California,Los Angeles,33.9955,-118.3483,2437,2,$265,869759
+North Lindenhurst,NY,New York,Suffolk,40.7072,-73.3859,2172,2,$265,364069
+Summit,IL,Illinois,Cook,41.7877,-87.8146,2035.7,2,$265,192176
+Great Neck,NY,New York,Nassau,40.8029,-73.7333,2965.5,2,$265,891762
+East Bakersfield,CA,California,Kern,35.3832,-118.9743,5029.9,2,$265,115113
+Lansdowne,PA,Pennsylvania,Delaware,39.9408,-75.276,3476.4,2,$265,162294
+Northbrook,OH,Ohio,Hamilton,39.2467,-84.5796,2148.8,2,$265,97088
+Waipio,HI,Hawaii,Honolulu,21.4143,-157.9966,3328,2,$265,523568
+Little Ferry,NJ,New Jersey,Bergen,40.8464,-74.0388,2812.9,2,$265,362168
+Westwood Lakes,FL,Florida,Miami-Dade,25.7237,-80.3717,2581.4,2,$265,373566

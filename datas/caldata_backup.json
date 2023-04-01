@@ -1,0 +1,494 @@
+[
+    {
+        "Why Sell": [
+            {
+                "type": "Preforeclosure",
+                "value": 2
+            },
+            {
+                "type": "Sell and rent instead",
+                "value": 0
+            },
+            {
+                "type": "Tired of being a landlord",
+                "value": 2
+            },
+            {
+                "type": "Emergency reasons",
+                "value": 2
+            },
+            {
+                "type": "Death in the family",
+                "value": 2
+            },
+            {
+                "type": "Moving closer to family",
+                "value": 0
+            },
+            {
+                "type": "Financial reasons",
+                "value": 2
+            },
+            {
+                "type": "Sell without showings",
+                "value": 0
+            },
+            {
+                "type": "Retirement",
+                "value": 0
+            },
+            {
+                "type": "Selling a vacant/non-occupied house",
+                "value": 4
+            },
+            {
+                "type": "Inherited property/probate",
+                "value": 4
+            },
+            {
+                "type": "Relocating",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Current Condition": [
+            {
+                "type": "Good",
+                "value": -1
+            },
+            {
+                "type": "Fair",
+                "value": 0
+            },
+            {
+                "type": "Poor",
+                "value": 2
+            },
+            {
+                "type": "Terrible",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "Repairs": [
+            {
+                "type": "None",
+                "value": -2
+            },
+            {
+                "type": "Flood/storm/fire",
+                "value": 6
+            },
+            {
+                "type": "Foundation",
+                "value": 4
+            },
+            {
+                "type": "Paint inside",
+                "value": 0
+            },
+            {
+                "type": "Landscaping",
+                "value": 0
+            },
+            {
+                "type": "Kitchen cabinets",
+                "value": 0
+            },
+            {
+                "type": "Paint outside",
+                "value": 0
+            },
+            {
+                "type": "Structural problems",
+                "value": 4
+            },
+            {
+                "type": "Roof needs replacement",
+                "value": 2
+            },
+            {
+                "type": "Bathroom(s) need work",
+                "value": 2
+            },
+            {
+                "type": "Boiler/water heater",
+                "value": 0
+            },
+            {
+                "type": "Electrical",
+                "value": 2
+            },
+            {
+                "type": "Kitchen appliances",
+                "value": 0
+            },
+            {
+                "type": "Air Conditioning",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Type Of Property": [
+            {
+                "type": "Ranch",
+                "value": 0
+            },
+            {
+                "type": "2-story",
+                "value": 0
+            },
+            {
+                "type": "Mobile home owned land",
+                "value": -1
+            },
+            {
+                "type": "Mobile home rented land",
+                "value": -2
+            },
+            {
+                "type": "Multifamily",
+                "value": 2
+            },
+            {
+                "type": "Bungalow",
+                "value": 0
+            },
+            {
+                "type": "Cottage",
+                "value": 0
+            },
+            {
+                "type": "Townhouse",
+                "value": 0
+            },
+            {
+                "type": "Condo",
+                "value": -1
+            },
+            {
+                "type": "Duplex",
+                "value": 2
+            },
+            {
+                "type": "Farmhouse",
+                "value": 0
+            },
+            {
+                "type": "Split-level home",
+                "value": 0
+            },
+            {
+                "type": "Land",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Bedrooms": [
+            {
+                "type": "1",
+                "value": 0
+            },
+            {
+                "type": "2",
+                "value": 0
+            },
+            {
+                "type": "3",
+                "value": 0
+            },
+            {
+                "type": "4",
+                "value": 0
+            },
+            {
+                "type": "5",
+                "value": 0
+            },
+            {
+                "type": "More than 5",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Bathrooms": [
+            {
+                "type": "None",
+                "value": 0
+            },
+            {
+                "type": "1",
+                "value": 0
+            },
+            {
+                "type": "1.5",
+                "value": 0
+            },
+            {
+                "type": "2",
+                "value": 0
+            },
+            {
+                "type": "2.5",
+                "value": 0
+            },
+            {
+                "type": "3",
+                "value": 0
+            },
+            {
+                "type": "More than 3",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Square Footage": [
+            {
+                "type": "0-500",
+                "value": 0
+            },
+            {
+                "type": "500-1000",
+                "value": 0
+            },
+            {
+                "type": "1000-2000",
+                "value": 0
+            },
+            {
+                "type": "2000-3000",
+                "value": 0
+            },
+            {
+                "type": "3000-4000",
+                "value": 0
+            },
+            {
+                "type": "4000-5000",
+                "value": 2
+            },
+            {
+                "type": "5000+",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Year Of Construction": [
+            {
+                "type": "1800-1900",
+                "value": 0
+            },
+            {
+                "type": "1900-1950",
+                "value": 0
+            },
+            {
+                "type": "1950-1970",
+                "value": 0
+            },
+            {
+                "type": "1970-1980",
+                "value": 0
+            },
+            {
+                "type": "1980-2000",
+                "value": 0
+            },
+            {
+                "type": "2000-2015",
+                "value": 2
+            },
+            {
+                "type": "2015+",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Garage": [
+            {
+                "type": "None",
+                "value": 0
+            },
+            {
+                "type": "1 Car Attached",
+                "value": 0
+            },
+            {
+                "type": "2 Car Attached",
+                "value": 2
+            },
+            {
+                "type": "1 Car Detatched",
+                "value": 0
+            },
+            {
+                "type": "2 Car Detatched",
+                "value": 0
+            },
+            {
+                "type": "Carport",
+                "value": 0
+            },
+            {
+                "type": "Other",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Are You The Owner?": [
+            {
+                "type": "Yes, I own this property",
+                "value": 0
+            },
+            {
+                "type": "Agent/wholesaler",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "How Long Have You Owned The Property": [
+            {
+                "type": "0-1",
+                "value": -2
+            },
+            {
+                "type": "2-5",
+                "value": 0
+            },
+            {
+                "type": "6-9",
+                "value": 2
+            },
+            {
+                "type": "10-14",
+                "value": 4
+            },
+            {
+                "type": "15-19",
+                "value": 4
+            },
+            {
+                "type": "20-29",
+                "value": 4
+            },
+            {
+                "type": "30-50",
+                "value": 6
+            },
+            {
+                "type": "50+",
+                "value": 6
+            }
+        ]
+    },
+    {
+        "Is Your Property Listed?": [
+            {
+                "type": "No it's not listed",
+                "value": 0
+            },
+            {
+                "type": "Yes it's listed",
+                "value": -3
+            },
+            {
+                "type": "When does your listing expire?",
+                "value": 0
+            },
+            {
+                "type": "Less than 1 week",
+                "value": 4
+            },
+            {
+                "type": "1 to 3 weeks",
+                "value": 2
+            },
+            {
+                "type": "1 to 2 months",
+                "value": 0
+            },
+            {
+                "type": "3 to 6 months",
+                "value": -1
+            },
+            {
+                "type": "Over 6 months",
+                "value": -3
+            }
+        ]
+    },
+    {
+        "Is there a mortgage on the house?": [
+            {
+                "type": "Yes and I am up to date on my mortgage",
+                "value": 0
+            },
+            {
+                "type": "Yes and I am behind on my mortgage",
+                "value": 0
+            },
+            {
+                "type": "There is no mortgage",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "Is there anyone living on the property?": [
+            {
+                "type": "No it's vacant",
+                "value": 4
+            },
+            {
+                "type": "Tenant occupied",
+                "value": 2
+            },
+            {
+                "type": "Owner occupied",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Seller Financing": [
+            {
+                "type": "Yes",
+                "value": 4
+            },
+            {
+                "type": "No",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "When do you want to finalize the sale of your home?": [
+            {
+                "type": "ASAP",
+                "value": 6
+            },
+            {
+                "type": "1 Month",
+                "value": 4
+            },
+            {
+                "type": "2-3 Months",
+                "value": 0
+            },
+            {
+                "type": "4-5 Months",
+                "value": -1
+            }
+        ]
+    }
+]
