@@ -57,7 +57,7 @@ leadData = [
     }
 ]
 
-leadData.forEach(lead => {
-    console.log(calculatePrice(lead));
+leadData.forEach(async lead => {
+    console.log(await calculatePrice(lead));
 });
 
