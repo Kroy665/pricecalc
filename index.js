@@ -1,5 +1,6 @@
 const citydata = require('./datas/citydata.json');
 const calcdata = require('./datas/calcdata.json');
+const axios = require('axios');
 
 function degreesToRadians(degrees) {
     return degrees * Math.PI / 180;
@@ -12,7 +13,7 @@ const getGeoCoordinates = async (address) => {
 
     try {
         const response = await axios.get(apiUrl);
-        console.log("getGeoCoordinates response.data:", response.data);
+        // console.log("getGeoCoordinates response.data:", response.data);
         const location = response.data.results[0].geometry.location;
         return { lat: location.lat, lng: location.lng };
     } catch (error) {
@@ -115,12 +116,8 @@ const getPriceByCity = async (lead) => {
         price = Number(price);
         return price;
     } else {
-        var coordinate = await getGeoCoordinates(bodyData?.address + ', ' + bodyData?.city + ', ' + bodyData?.state + ', ' + bodyData?.zip_code + ', ' + bodyData?.country);
-
-        if (!coordinate) {
-            return ctx.badRequest(null, 'Please enter valid address');
-        }
-
+        var coordinate = await getGeoCoordinates(lead?.address + ', ' + lead?.city + ', ' + lead?.state + ', ' + lead?.zip_code + ', ' + lead?.country);
+        // console.log("coordinate:", coordinate);
         var lat = coordinate.lat;
         var lng = coordinate.lng;
 
@@ -146,7 +143,8 @@ const getPriceByCity = async (lead) => {
             allDistances.push({
                 discount: discount,
                 distance: distance,
-                price: price * (100 - discount) / 100
+                price: price * (100 - discount) / 100,
+                city: citydata[i].city
             });
         }
         allDistances.sort((a, b) => {
@@ -166,12 +164,14 @@ const getPriceByCity = async (lead) => {
 
         // get max price
         var maxPrice = 0;
+        var maxPriceCity = {};
         for (let i = 0; i < sortedDistances.length; i++) {
             if (sortedDistances[i].price > maxPrice) {
                 maxPrice = sortedDistances[i].price;
+                maxPriceCity = sortedDistances[i];
             }
         }
-        console.log(maxPrice);
+        console.log("maxPriceCity", maxPriceCity);
         return maxPrice;
     }
 
